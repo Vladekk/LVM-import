@@ -60,6 +60,8 @@ $targetFnPrefix = "conflated"
 # usually, no much sense changing this
 $workingDir = 'working-dir'
 
+#use credentials from here or other import page, do not use your own
+#https://wiki.openstreetmap.org/w/index.php?title=LV:LVM-import&redirect=no
 $osmUsername = NEED_TO_FILL
 $osmPassword = NEED_TO_FILL
 
