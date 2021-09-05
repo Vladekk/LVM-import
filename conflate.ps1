@@ -45,7 +45,8 @@ $gridName = "grid-$tilesInGridCount.osm"
 #$osmGeofabrikName = "geofabrik-trimmed.osm"
 
 #if you do not want to process some files at the beginnning, put value here, otherwise 0
-$skip = 60
+$skip = 0
+
 
 # How many files to process. If you want all of them, default is $tilesInGridCount*$tilesInGridCount
 #$take = $tilesInGridCount*$tilesInGridCount
@@ -70,14 +71,16 @@ $forceTranslateImport = $false
 $markHootChangedAsModified = $true
 $forceReconflate = $false
 
-#force fetch fresh data from overpass, otherwise use existing data downloaded in previous runs
-$forceRedownloadFromOsm = $false
+#force fetch fresh data from OSM, otherwise use existing data downloaded in previous runs
+$forceRedownloadFromOsm = $true
 
 $lvmDatasetUrl = "https://lvmgeo.lvm.lv/PublicData/SHP/LVM_MEZA_AUTOCELI.zip"
 
-# $PSScriptRoot not working for some reason, so we are using this
-# Should be set to script directory
-$rootDir = "/mnt/d/Docs/Maps/LVM-OSM-IMPORT-2021/cur/"
+# $PSScriptRoot is set to script root if used when running script from the console
+$rootDir = $PSScriptRoot
+
+# If running from some IDE, should be set to script directory manually
+$rootDir = "/mnt/d/Docs/Maps/LVM-OSM-IMPORT-2021/"
 
 
 ################## Start ################## 
@@ -244,4 +247,4 @@ ForEach-Object {
     }        
 }        
           
-cd ..
+cd .. 
