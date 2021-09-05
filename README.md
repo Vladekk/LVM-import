@@ -12,5 +12,9 @@ To use this script, you'l need
 3. Install [Powershell Core](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7.1)
 4. If not presend, install GDAL so you can use ogr2ogr
 
+# Running
+
+Script has configuration section at the top. 
+
 
 
