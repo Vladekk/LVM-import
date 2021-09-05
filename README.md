@@ -1,2 +1,1 @@
-# LVM-import
-LVM import script and documentation
+This is supporting script for [LVM data import](https://wiki.openstreetmap.org/w/index.php?title=LV:LVM-import&redirect=no) into Openstreetmap. It might be of interest mostly to people involved with OSM.
