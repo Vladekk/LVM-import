@@ -60,6 +60,9 @@ $targetFnPrefix = "conflated"
 # usually, no much sense changing this
 $workingDir = 'working-dir'
 
+$osmUsername = NEED_TO_FILL
+$osmPassword = NEED_TO_FILL
+
 ############### End common config #######################
 
 #Enable or disable separate script steps
@@ -157,8 +160,9 @@ ForEach-Object {
     #     }
     # }
     if (-not (Test-Path ./$osmFileName) -or $forceRedownloadFromOsm) {   
-        # Plain text login and password are not a good practice, but anybody can make login at OSM anyway
-        hoot convert -D bounds=$cellExtent ***REMOVED***@api.openstreetmap.org/api/0.6/map $osmFileName
+        # Plain text login and 
+        ord are not a good practice, but anybody can make login at OSM anyway
+        hoot convert -D bounds=$cellExtent https://$osmUsername:$osmPassword@api.openstreetmap.org/api/0.6/map $osmFileName
     }
     $conflatedOutName = "$targetFnPrefix-$griddedCellNumber-$algorithm-$confType.osm"
         
