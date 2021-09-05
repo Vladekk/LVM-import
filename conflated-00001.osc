@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="hootenanny">
+    <create>
+        <node id="-1" version="0" lat="57.5044029671353485" lon="21.8286679796973679" timestamp=""/>
+        <node id="-2" version="0" lat="57.5308674914674398" lon="21.8389743773294498" timestamp=""/>
+        <node id="-3" version="0" lat="57.5308628516964973" lon="21.8385473578162284" timestamp=""/>
+        <node id="-4" version="0" lat="57.5397772684036397" lon="21.7405814833819804" timestamp=""/>
+        <node id="-5" version="0" lat="57.5398047083090134" lon="21.7410344351826694" timestamp=""/>
+        <node id="-6" version="0" lat="57.4847012299793718" lon="21.6737950928925116" timestamp=""/>
+        <node id="-7" version="0" lat="57.4962199977006350" lon="21.7456550851567769" timestamp=""/>
+        <node id="-8" version="0" lat="57.5387555666734301" lon="21.8772867392289179" timestamp=""/>
+        <node id="-9" version="0" lat="57.5453102012049271" lon="21.8016655063766471" timestamp=""/>
+        <node id="-10" version="0" lat="57.5454783398556771" lon="21.8016533331122311" timestamp=""/>
+        <node id="-11" version="0" lat="57.5043901079083852" lon="21.7848487723950264" timestamp=""/>
+        <node id="-12" version="0" lat="57.5399203475406580" lon="21.7409096131018700" timestamp=""/>
+        <node id="-13" version="0" lat="57.5399326107839570" lon="21.7407636121642369" timestamp=""/>
+        <node id="-14" version="0" lat="57.5398802301450942" lon="21.7406423629352510" timestamp=""/>
+        <node id="-15" version="0" lat="57.5524280201935099" lon="21.7090208300191350" timestamp=""/>
+        <node id="-16" version="0" lat="57.5517517820590072" lon="21.7084116490174530" timestamp=""/>
+        <node id="-17" version="0" lat="57.5511772102207146" lon="21.7079305792889485" timestamp=""/>
+        <node id="-18" version="0" lat="57.5508158062614541" lon="21.7075998332603533" timestamp=""/>
+        <node id="-19" version="0" lat="57.5501586042477129" lon="21.7070194774086076" timestamp=""/>
+        <node id="-20" version="0" lat="57.5497292377153329" lon="21.7066255825688970" timestamp=""/>
+        <node id="-21" version="0" lat="57.5487131460814112" lon="21.7057266283257881" timestamp=""/>
+        <node id="-22" version="0" lat="57.5485564968040606" lon="21.7055934125225036" timestamp=""/>
+        <node id="-23" version="0" lat="57.5480204627089833" lon="21.7051561263003165" timestamp=""/>
+        <node id="-24" version="0" lat="57.5479324139561115" lon="21.7050794189945542" timestamp=""/>
+        <node id="-25" version="0" lat="57.5477321164774338" lon="21.7048827475711263" timestamp=""/>
+        <node id="-26" version="0" lat="57.5475139234395812" lon="21.7046825627808353" timestamp=""/>
+        <node id="-27" version="0" lat="57.5473406969246142" lon="21.7045352163131824" timestamp=""/>
+        <node id="-28" version="0" lat="57.5472162890860659" lon="21.7044436099442457" timestamp=""/>
+        <node id="-29" version="0" lat="57.5470058765024106" lon="21.7042735375779259" timestamp=""/>
+        <node id="-30" version="0" lat="57.5462987762978031" lon="21.7036584872815368" timestamp=""/>
+        <node id="-31" version="0" lat="57.5456740734441752" lon="21.7030980171223007" timestamp=""/>
+        <node id="-32" version="0" lat="57.5453596534667042" lon="21.7028293162838644" timestamp=""/>
+        <node id="-33" version="0" lat="57.5448628204928383" lon="21.7023738478575545" timestamp=""/>
+        <node id="-34" version="0" lat="57.5444128013798704" lon="21.7019715718662347" timestamp=""/>
+        <node id="-35" version="0" lat="57.5438773623506918" lon="21.7015141914328886" timestamp=""/>
+        <node id="-36" version="0" lat="57.5434995310611868" lon="21.7011832572399257" timestamp=""/>
+        <node id="-37" version="0" lat="57.5430299718617491" lon="21.7007426592633088" timestamp=""/>
+        <node id="-38" version="0" lat="57.5427013173992421" lon="21.7004946753301624" timestamp=""/>
+        <node id="-39" version="0" lat="57.5419192713795056" lon="21.6997816938438071" timestamp=""/>
+        <node id="-40" version="0" lat="57.5408265461746637" lon="21.6988235458720524" timestamp=""/>
+        <node id="-41" version="0" lat="57.5402119416925899" lon="21.6982674901292221" timestamp=""/>
+        <node id="-42" version="0" lat="57.5386447381292641" lon="21.6969243058753065" timestamp=""/>
+        <node id="-43" version="0" lat="57.5382873577116740" lon="21.6965947975183191" timestamp=""/>
+        <node id="-44" version="0" lat="57.5379702734731353" lon="21.6963135991403746" timestamp=""/>
+        <node id="-45" version="0" lat="57.5377872335660570" lon="21.6961615301265596" timestamp=""/>
+        <node id="-46" version="0" lat="57.5375472158721237" lon="21.6959788697802090" timestamp=""/>
+        <node id="-47" version="0" lat="57.5372709662191824" lon="21.6957281439864254" timestamp=""/>
+        <node id="-48" version="0" lat="57.5371227779240471" lon="21.6956062465727868" timestamp=""/>
+        <node id="-49" version="0" lat="57.5370112245747265" lon="21.6955229279174837" timestamp=""/>
+        <node id="-50" version="0" lat="57.5368858906395104" lon="21.6954378432381496" timestamp=""/>
+        <node id="-51" version="0" lat="57.5365931222170701" lon="21.6952657491044363" timestamp=""/>
+        <node id="-52" version="0" lat="57.5364761285229278" lon="21.6951917251289430" timestamp=""/>
+        <node id="-53" version="0" lat="57.5362732474601231" lon="21.6950536339180537" timestamp=""/>
+        <node id="-54" version="0" lat="57.5361074291786281" lon="21.6949556941100319" timestamp=""/>
+        <node id="-55" version="0" lat="57.5359890283216089" lon="21.6949004255078393" timestamp=""/>
+        <node id="-56" version="0" lat="57.5358241497184792" lon="21.6948339641018251" timestamp=""/>
+        <node id="-57" version="0" lat="57.5352088476681800" lon="21.6946311770248315" timestamp=""/>
+        <node id="-58" version="0" lat="57.5347429408017703" lon="21.6945169451568169" timestamp=""/>
+        <node id="-59" version="0" lat="57.5344143788083926" lon="21.6944576879835367" timestamp=""/>
+        <node id="-60" version="0" lat="57.5329606531598898" lon="21.6942721276232930" timestamp=""/>
+        <node id="-61" version="0" lat="57.5324947720160509" lon="21.6942301019889356" timestamp=""/>
+        <node id="-62" version="0" lat="57.5316352316175923" lon="21.6940899169498564" timestamp=""/>
+        <node id="-63" version="0" lat="57.5314281506443237" lon="21.6940674227339372" timestamp=""/>
+        <node id="-64" version="0" lat="57.5310694991942029" lon="21.6940685484390805" timestamp=""/>
+        <node id="-65" version="0" lat="57.5303633943366393" lon="21.6941024658123744" timestamp=""/>
+        <node id="-66" version="0" lat="57.5302850860841559" lon="21.6941170406358701" timestamp=""/>
+        <node id="-67" version="0" lat="57.5299787854095399" lon="21.6942362082987863" timestamp=""/>
+        <node id="-68" version="0" lat="57.5293438193483837" lon="21.6945299419382138" timestamp=""/>
+        <node id="-69" version="0" lat="57.5291335054105204" lon="21.6946356719826525" timestamp=""/>
+        <node id="-70" version="0" lat="57.5290317636692805" lon="21.6946954831276990" timestamp=""/>
+        <node id="-71" version="0" lat="57.5289278562309576" lon="21.6947657659381505" timestamp=""/>
+        <node id="-72" version="0" lat="57.5281307760741427" lon="21.6953675106002102" timestamp=""/>
+        <node id="-73" version="0" lat="57.5277089053498685" lon="21.6956736588002919" timestamp=""/>
+        <node id="-74" version="0" lat="57.5276850830829218" lon="21.6956821713028312" timestamp=""/>
+        <node id="-75" version="0" lat="57.5276608343907796" lon="21.6956834727613064" timestamp=""/>
+        <node id="-76" version="0" lat="57.5276367867791265" lon="21.6956775302523894" timestamp=""/>
+        <node id="-77" version="0" lat="57.5276145245718382" lon="21.6956650389405468" timestamp=""/>
+        <node id="-78" version="0" lat="57.5276135631319718" lon="21.6956644999367541" timestamp=""/>
+        <node id="-79" version="0" lat="57.5275859881488145" lon="21.6956360957231027" timestamp=""/>
+        <node id="-80" version="0" lat="57.5274357973755883" lon="21.6954150703037350" timestamp=""/>
+        <node id="-81" version="0" lat="57.5273475607753539" lon="21.6952897376506009" timestamp=""/>
+        <node id="-82" version="0" lat="57.5272449619566260" lon="21.6951547100638322" timestamp=""/>
+        <node id="-83" version="0" lat="57.5271722100436378" lon="21.6950458903183119" timestamp=""/>
+        <node id="-84" version="0" lat="57.5270293131078674" lon="21.6948163696674499" timestamp=""/>
+        <node id="-85" version="0" lat="57.5269568214725808" lon="21.6946881715664368" timestamp=""/>
+        <node id="-86" version="0" lat="57.5267218564363247" lon="21.6942947125017369" timestamp=""/>
+        <node id="-87" version="0" lat="57.5266364665260141" lon="21.6941604941139801" timestamp=""/>
+        <node id="-88" version="0" lat="57.5262800645697965" lon="21.6936411308850765" timestamp=""/>
+        <node id="-89" version="0" lat="57.5260052705981835" lon="21.6932636262667025" timestamp=""/>
+        <node id="-90" version="0" lat="57.5257873340719073" lon="21.6929390993638584" timestamp=""/>
+        <node id="-91" version="0" lat="57.5256471129113791" lon="21.6927677259811489" timestamp=""/>
+        <node id="-92" version="0" lat="57.5255766817091612" lon="21.6926724222303839" timestamp=""/>
+        <node id="-93" version="0" lat="57.5255262635499491" lon="21.6925938203098987" timestamp=""/>
+        <node id="-94" version="0" lat="57.5252606463605716" lon="21.6921464664111845" timestamp=""/>
+        <node id="-95" version="0" lat="57.5251548123395793" lon="21.6919346398450905" timestamp=""/>
+        <node id="-96" version="0" lat="57.5251255847413887" lon="21.6918597597766656" timestamp=""/>
+        <node id="-97" version="0" lat="57.5250235321324297" lon="21.6915703672787643" timestamp=""/>
+        <node id="-98" version="0" lat="57.5249457783692293" lon="21.6913920168549517" timestamp=""/>
+        <node id="-99" version="0" lat="57.5248048878477647" lon="21.6911202973763579" timestamp=""/>
+        <node id="-100" version="0" lat="57.5247394856944751" lon="21.6910096299070574" timestamp=""/>
+        <node id="-101" version="0" lat="57.5245740463311179" lon="21.6907464742737695" timestamp=""/>
+        <node id="-102" version="0" lat="57.5244650182145989" lon="21.6905506584675649" timestamp=""/>
+        <node id="-103" version="0" lat="57.5244022466699647" lon="21.6904109341844631" timestamp=""/>
+        <node id="-104" version="0" lat="57.5242495992313039" lon="21.6900247340223729" timestamp=""/>
+        <node id="-105" version="0" lat="57.5241705451793948" lon="21.6898420883420826" timestamp=""/>
+        <node id="-106" version="0" lat="57.5241167758387562" lon="21.6897388333101695" timestamp=""/>
+        <node id="-107" version="0" lat="57.5239749763127932" lon="21.6895232275511667" timestamp=""/>
+        <node id="-108" version="0" lat="57.5239194401204728" lon="21.6894203174888212" timestamp=""/>
+        <node id="-109" version="0" lat="57.5238829668690599" lon="21.6893258255385319" timestamp=""/>
+        <node id="-110" version="0" lat="57.5237643040555113" lon="21.6889235379707550" timestamp=""/>
+        <node id="-111" version="0" lat="57.5237034922979547" lon="21.6887307882824310" timestamp=""/>
+        <node id="-112" version="0" lat="57.5236437273256556" lon="21.6885614482782145" timestamp=""/>
+        <node id="-113" version="0" lat="57.5235755738219083" lon="21.6883823961841955" timestamp=""/>
+        <node id="-114" version="0" lat="57.5234919546834291" lon="21.6882050185953332" timestamp=""/>
+        <node id="-115" version="0" lat="57.5232157150306236" lon="21.6877023726043099" timestamp=""/>
+        <node id="-116" version="0" lat="57.5308062458492202" lon="21.8389641502210772" timestamp=""/>
+        <node id="-117" version="0" lat="57.5307359147782762" lon="21.8388143315713492" timestamp=""/>
+        <node id="-118" version="0" lat="57.5307187149894688" lon="21.8386893642196789" timestamp=""/>
+        <node id="-119" version="0" lat="57.5307813343341863" lon="21.8386086674894351" timestamp=""/>
+        <node id="-120" version="0" lat="57.5390186309798537" lon="21.8773402936495280" timestamp=""/>
+        <node id="-121" version="0" lat="57.5389898956249297" lon="21.8774129927424745" timestamp=""/>
+        <node id="-122" version="0" lat="57.5389287767987554" lon="21.8774750401160389" timestamp=""/>
+        <node id="-123" version="0" lat="57.4915638539215408" lon="21.7580585224201180" timestamp=""/>
+        <node id="-124" version="0" lat="57.5397426396790195" lon="21.7409551931879328" timestamp=""/>
+        <node id="-125" version="0" lat="57.5681051148612752" lon="21.8659864415203629" timestamp=""/>
+        <node id="-126" version="0" lat="57.5675883400625992" lon="21.8659783338032376" timestamp=""/>
+        <node id="-127" version="0" lat="57.5672583398453028" lon="21.8659733336521427" timestamp=""/>
+        <node id="-128" version="0" lat="57.5664783400469560" lon="21.8658466669457425" timestamp=""/>
+        <node id="-129" version="0" lat="57.5643361038899997" lon="21.8655124652915305" timestamp=""/>
+        <node id="-130" version="0" lat="57.5632616734006106" lon="21.8654483322285351" timestamp=""/>
+        <node id="-131" version="0" lat="57.5628483405195723" lon="21.8654116671578826" timestamp=""/>
+        <node id="-132" version="0" lat="57.5625650070449240" lon="21.8653599999525632" timestamp=""/>
+        <node id="-133" version="0" lat="57.5623633406518991" lon="21.8652733326310482" timestamp=""/>
+        <node id="-134" version="0" lat="57.5622350069667519" lon="21.8651816663265812" timestamp=""/>
+        <node id="-135" version="0" lat="57.5621677505876335" lon="21.8651482208853416" timestamp=""/>
+        <node id="-136" version="0" lat="57.5619716740096266" lon="21.8649433334157344" timestamp=""/>
+        <node id="-137" version="0" lat="57.5615283398247968" lon="21.8644383330533074" timestamp=""/>
+        <node id="-138" version="0" lat="57.5613483402419845" lon="21.8642066671879540" timestamp=""/>
+        <node id="-139" version="0" lat="57.5606416736180719" lon="21.8634783333182021" timestamp=""/>
+        <node id="-140" version="0" lat="57.5604483402098239" lon="21.8632533338221684" timestamp=""/>
+        <node id="-141" version="0" lat="57.5604157199116528" lon="21.8631940855192894" timestamp=""/>
+        <node id="-142" version="0" lat="57.5601750064821829" lon="21.8629699993658910" timestamp=""/>
+        <node id="-143" version="0" lat="57.5579250067273520" lon="21.8603183328776076" timestamp=""/>
+        <node id="-144" version="0" lat="57.5575866738280411" lon="21.8599283322692521" timestamp=""/>
+        <node id="-145" version="0" lat="57.5574216739080029" lon="21.8597166658023561" timestamp=""/>
+        <node id="-146" version="0" lat="57.5571383405983639" lon="21.8594100002294844" timestamp=""/>
+        <node id="-147" version="0" lat="57.5568983403448797" lon="21.8591816655596638" timestamp=""/>
+        <node id="-148" version="0" lat="57.5566100065998398" lon="21.8589716656107420" timestamp=""/>
+        <node id="-149" version="0" lat="57.5564483404854599" lon="21.8588916657865759" timestamp=""/>
+        <node id="-150" version="0" lat="57.5562850070695333" lon="21.8588316655844643" timestamp=""/>
+        <node id="-151" version="0" lat="57.5559483400766041" lon="21.8587649990853805" timestamp=""/>
+        <node id="-152" version="0" lat="57.5553850067651567" lon="21.8587199993622043" timestamp=""/>
+        <node id="-153" version="0" lat="57.5552184002270266" lon="21.8587542133370931" timestamp=""/>
+        <node id="-154" version="0" lat="57.5550916733009714" lon="21.8586966669365168" timestamp=""/>
+        <node id="-155" version="0" lat="57.5541850067993650" lon="21.8586766671933752" timestamp=""/>
+        <node id="-156" version="0" lat="57.5534100065078675" lon="21.8586149989341578" timestamp=""/>
+        <node id="-157" version="0" lat="57.5501650066159698" lon="21.8592133333865775" timestamp=""/>
+        <node id="-158" version="0" lat="57.5497500068325323" lon="21.8593733328306783" timestamp=""/>
+        <node id="-159" version="0" lat="57.5493116739848247" lon="21.8595049993299284" timestamp=""/>
+        <node id="-160" version="0" lat="57.5489616738981340" lon="21.8595649989367296" timestamp=""/>
+        <node id="-161" version="0" lat="57.5485297732360905" lon="21.8595155749813692" timestamp=""/>
+        <node id="-162" version="0" lat="57.5480789131096060" lon="21.8593969834918767" timestamp=""/>
+        <node id="-163" version="0" lat="57.5475067908872191" lon="21.8591973805770543" timestamp=""/>
+        <node id="-164" version="0" lat="57.5455392438337938" lon="21.8586872836161952" timestamp=""/>
+        <node id="-165" version="0" lat="57.5453550070824846" lon="21.8586283338722502" timestamp=""/>
+        <node id="-166" version="0" lat="57.5450133403413560" lon="21.8583649994481135" timestamp=""/>
+        <node id="-167" version="0" lat="57.5448593203187215" lon="21.8582673399921816" timestamp=""/>
+        <node id="-168" version="0" lat="57.5442562433036997" lon="21.8580330241513892" timestamp=""/>
+        <node id="-169" version="0" lat="57.5433297896086415" lon="21.8577955897647733" timestamp=""/>
+        <node id="-170" version="0" lat="57.5431053171574902" lon="21.8579169935988773" timestamp=""/>
+        <node id="-171" version="0" lat="57.5428691383514987" lon="21.8581164924671114" timestamp=""/>
+        <node id="-172" version="0" lat="57.5426708789905277" lon="21.8583338725575587" timestamp=""/>
+        <node id="-173" version="0" lat="57.5425383992843322" lon="21.8586259789345050" timestamp=""/>
+        <node id="-174" version="0" lat="57.5417864147217486" lon="21.8608527915441506" timestamp=""/>
+        <node id="-175" version="0" lat="57.5415445480050352" lon="21.8610009503980223" timestamp=""/>
+        <node id="-176" version="0" lat="57.5412981232307956" lon="21.8610673682027894" timestamp=""/>
+        <node id="-177" version="0" lat="57.5408325672084686" lon="21.8611614781906098" timestamp=""/>
+        <node id="-178" version="0" lat="57.5393683403404737" lon="21.8614233327125653" timestamp=""/>
+        <node id="-179" version="0" lat="57.5380024484130956" lon="21.8616762615508833" timestamp=""/>
+        <node id="-180" version="0" lat="57.5371500069787345" lon="21.8618633331952061" timestamp=""/>
+        <node id="-181" version="0" lat="57.5367933406863230" lon="21.8619133324265604" timestamp=""/>
+        <node id="-182" version="0" lat="57.5365052072399763" lon="21.8619137735294196" timestamp=""/>
+        <node id="-183" version="0" lat="57.5359743045203658" lon="21.8618697195259841" timestamp=""/>
+        <node id="-184" version="0" lat="57.5353702475975766" lon="21.8617525964051183" timestamp=""/>
+        <node id="-185" version="0" lat="57.5337060969478529" lon="21.8615782238314935" timestamp=""/>
+        <node id="-186" version="0" lat="57.5323885914614195" lon="21.8614122905449833" timestamp=""/>
+        <node id="-187" version="0" lat="57.5311300069894074" lon="21.8612933324475449" timestamp=""/>
+        <node id="-188" version="0" lat="57.5303899705355803" lon="21.8611981078341593" timestamp=""/>
+        <node id="-189" version="0" lat="57.5293666731952555" lon="21.8610850001109078" timestamp=""/>
+        <node id="-190" version="0" lat="57.5277416739675616" lon="21.8609116654746387" timestamp=""/>
+        <node id="-191" version="0" lat="57.5262233402872738" lon="21.8607566659567958" timestamp=""/>
+        <node id="-192" version="0" lat="57.5253316734516389" lon="21.8606383332857170" timestamp=""/>
+        <node id="-193" version="0" lat="57.5246533403435123" lon="21.8605733327573724" timestamp=""/>
+        <node id="-194" version="0" lat="57.5243833401220783" lon="21.8605316664967013" timestamp=""/>
+        <node id="-195" version="0" lat="57.5242482910644952" lon="21.8605588217632061" timestamp=""/>
+        <node id="-196" version="0" lat="57.5241083405319173" lon="21.8605016659489308" timestamp=""/>
+        <node id="-197" version="0" lat="57.5228733398345895" lon="21.8603583333512965" timestamp=""/>
+        <node id="-198" version="0" lat="57.5213147326527476" lon="21.8601168799452417" timestamp=""/>
+    </create>
+    <modify>
+        <node id="8839211809" version="1" lat="57.5609098999979096" lon="21.8902311471391151" timestamp="2021-06-16T15:20:40Z"/>
+    </modify>
+    <create>
+        <way id="-1" version="0" timestamp=""/>
+        <way id="-2" version="0" timestamp="">
+            <nd ref="283920557"/>
+            <nd ref="-9"/>
+            <nd ref="-10"/>
+            <nd ref="521222167"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Garmasta dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-3" version="0" timestamp="2021-08-14T23:12:17Z">
+            <nd ref="1408192058"/>
+            <nd ref="7497990523"/>
+            <nd ref="1408192064"/>
+            <nd ref="7497990524"/>
+            <nd ref="1408192062"/>
+            <nd ref="9007294473"/>
+            <nd ref="1408192057"/>
+            <nd ref="9007294474"/>
+            <nd ref="9007294475"/>
+            <nd ref="9007294476"/>
+            <nd ref="1408192053"/>
+            <nd ref="9007294477"/>
+            <nd ref="1408192048"/>
+            <nd ref="9007294478"/>
+            <nd ref="9007294479"/>
+            <nd ref="1408192046"/>
+            <nd ref="9007294481"/>
+            <nd ref="9007294480"/>
+            <nd ref="1408192055"/>
+            <nd ref="9007294490"/>
+            <nd ref="9007294489"/>
+            <nd ref="9007294482"/>
+            <nd ref="9007294486"/>
+            <nd ref="9007294483"/>
+            <nd ref="9007294484"/>
+            <nd ref="1408192066"/>
+            <nd ref="9007294485"/>
+            <nd ref="1408192068"/>
+            <nd ref="9007294488"/>
+            <nd ref="9007294487"/>
+            <nd ref="1408192069"/>
+            <nd ref="1662815005"/>
+            <nd ref="1662815007"/>
+            <nd ref="1408192073"/>
+            <nd ref="1662815009"/>
+            <nd ref="1408192079"/>
+            <nd ref="1662815013"/>
+            <nd ref="1408192087"/>
+            <nd ref="1662815029"/>
+            <nd ref="1408192096"/>
+            <nd ref="1662815037"/>
+            <nd ref="1408192098"/>
+            <nd ref="1662815054"/>
+            <nd ref="1408192097"/>
+            <nd ref="1408192083"/>
+            <nd ref="7497990521"/>
+            <nd ref="7497990520"/>
+            <nd ref="7497990519"/>
+            <nd ref="7497990518"/>
+            <nd ref="1408192082"/>
+            <nd ref="7497990517"/>
+            <nd ref="7497990516"/>
+            <nd ref="7497990515"/>
+            <nd ref="1408192078"/>
+            <nd ref="1408192085"/>
+            <nd ref="1408192094"/>
+            <nd ref="9007294529"/>
+            <nd ref="7497990514"/>
+            <nd ref="283920565"/>
+            <nd ref="5250075469"/>
+            <nd ref="1408192190"/>
+            <nd ref="1662815289"/>
+            <nd ref="5250075456"/>
+            <nd ref="5250075455"/>
+            <nd ref="5250075454"/>
+            <nd ref="5250075453"/>
+            <nd ref="1662815314"/>
+            <nd ref="1662815318"/>
+            <nd ref="1662815362"/>
+            <nd ref="5250075445"/>
+            <nd ref="5250075444"/>
+            <nd ref="5250075443"/>
+            <nd ref="5250075442"/>
+            <nd ref="283920562"/>
+            <nd ref="5250075441"/>
+            <nd ref="5250075440"/>
+            <nd ref="5250075439"/>
+            <nd ref="5250075438"/>
+            <nd ref="5250075425"/>
+            <nd ref="5250075437"/>
+            <nd ref="5250075428"/>
+            <nd ref="283920557"/>
+            <nd ref="521222167"/>
+            <nd ref="5250075426"/>
+            <nd ref="5250075427"/>
+            <nd ref="1662815503"/>
+            <nd ref="283920551"/>
+            <nd ref="1662815607"/>
+            <nd ref="521222146"/>
+            <nd ref="521222147"/>
+            <nd ref="521222166"/>
+            <nd ref="283919060"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-14T23:12:17Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Garmasta dambis"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-4" version="0" timestamp="2021-08-14T23:12:17Z">
+            <nd ref="1408192031"/>
+            <nd ref="8839235780"/>
+            <nd ref="8839225396"/>
+            <nd ref="1408192033"/>
+            <nd ref="8839225397"/>
+            <nd ref="1408192035"/>
+            <nd ref="8839225398"/>
+            <nd ref="1408192036"/>
+            <nd ref="-1"/>
+            <nd ref="8839225399"/>
+            <nd ref="8839225400"/>
+            <nd ref="1408192040"/>
+            <nd ref="7497990525"/>
+            <nd ref="1408192058"/>
+            <tag k="alt_name" v="Garmasta dambja (turp.)"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-14T23:12:17Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Garmasta dambis"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-5" version="0" timestamp="">
+            <nd ref="521567757"/>
+            <nd ref="-123"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Viršu ceļš"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-6" version="0" timestamp="2021-08-14T23:12:17Z">
+            <nd ref="380250907"/>
+            <nd ref="8811130486"/>
+            <nd ref="7497990512"/>
+            <nd ref="1408395448"/>
+            <nd ref="1408395452"/>
+            <nd ref="1408395454"/>
+            <nd ref="1408395456"/>
+            <nd ref="1408395458"/>
+            <nd ref="1408395460"/>
+            <nd ref="1408395461"/>
+            <nd ref="1408395470"/>
+            <nd ref="1408395471"/>
+            <nd ref="1408395472"/>
+            <nd ref="1408395473"/>
+            <nd ref="1408395474"/>
+            <nd ref="1408395476"/>
+            <nd ref="1408395478"/>
+            <nd ref="1408395480"/>
+            <nd ref="1408395495"/>
+            <nd ref="1408395496"/>
+            <nd ref="1408395501"/>
+            <nd ref="1408395503"/>
+            <nd ref="1408395511"/>
+            <nd ref="1408395515"/>
+            <nd ref="1408395513"/>
+            <nd ref="1408395518"/>
+            <nd ref="1408395520"/>
+            <nd ref="1408395524"/>
+            <nd ref="1408395527"/>
+            <nd ref="1408395540"/>
+            <nd ref="1408395544"/>
+            <nd ref="1408395548"/>
+            <nd ref="1408395551"/>
+            <nd ref="1408395552"/>
+            <nd ref="1408395554"/>
+            <nd ref="1408395556"/>
+            <nd ref="1408395558"/>
+            <nd ref="1408395566"/>
+            <nd ref="1408395568"/>
+            <nd ref="1408395570"/>
+            <nd ref="1408395573"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-14T23:12:17Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Sēņu ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-7" version="0" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="-3"/>
+            <nd ref="5250075492"/>
+            <nd ref="4535931270"/>
+            <nd ref="5250075491"/>
+            <nd ref="5250075490"/>
+            <nd ref="5250075489"/>
+            <nd ref="1662815357"/>
+            <nd ref="1662815365"/>
+            <nd ref="5250075488"/>
+            <nd ref="5250075487"/>
+            <nd ref="4535931267"/>
+            <nd ref="5250075486"/>
+            <nd ref="5250075485"/>
+            <nd ref="1662815350"/>
+            <nd ref="5250075484"/>
+            <nd ref="5250075483"/>
+            <nd ref="4535931268"/>
+            <nd ref="1601322548"/>
+            <nd ref="5250075476"/>
+            <nd ref="5250075475"/>
+            <nd ref="5250075474"/>
+            <nd ref="1408192142"/>
+            <nd ref="4535931265"/>
+            <nd ref="1408192110"/>
+            <nd ref="1408192063"/>
+            <nd ref="7497990522"/>
+            <nd ref="1408192058"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="Ances pagagasta ter. planojums;LVM:LVM meža ceļi"/>
+            <tag k="name" v="Līkais dambis (Rindas iec.)"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-8" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="1408192140"/>
+            <nd ref="1408192139"/>
+            <nd ref="1408192141"/>
+            <nd ref="1662815135"/>
+            <nd ref="1408192143"/>
+            <nd ref="9010960361"/>
+            <nd ref="1408192156"/>
+            <nd ref="1408192157"/>
+            <nd ref="1408192158"/>
+            <nd ref="1408192159"/>
+            <nd ref="1408192169"/>
+            <nd ref="1408192171"/>
+            <nd ref="1408192170"/>
+            <nd ref="1408192176"/>
+            <nd ref="1408192178"/>
+            <nd ref="1408192173"/>
+            <nd ref="1662815184"/>
+            <nd ref="1408192174"/>
+            <nd ref="1408192186"/>
+            <nd ref="1408192185"/>
+            <nd ref="1408192172"/>
+            <nd ref="1408192162"/>
+            <nd ref="1408192161"/>
+            <nd ref="1408192155"/>
+            <nd ref="1408192145"/>
+            <nd ref="1408192147"/>
+            <nd ref="1408192154"/>
+            <nd ref="1662815149"/>
+            <nd ref="1408192142"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="track"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Brūkleņu ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-9" version="0" timestamp="2021-08-14T23:12:17Z">
+            <nd ref="1408192190"/>
+            <nd ref="1416229906"/>
+            <nd ref="9007294534"/>
+            <nd ref="9007294535"/>
+            <nd ref="283917345"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-14T23:12:17Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Starpdambju ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-10" version="0" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1431217394"/>
+            <nd ref="1431217393"/>
+            <nd ref="1431217391"/>
+            <nd ref="1431217390"/>
+            <nd ref="1431217392"/>
+            <nd ref="1431217395"/>
+            <nd ref="1431217396"/>
+            <nd ref="1431217397"/>
+            <nd ref="1431217398"/>
+            <nd ref="1431217399"/>
+            <nd ref="1431217400"/>
+            <nd ref="1431217401"/>
+            <nd ref="1431217402"/>
+            <nd ref="1431217403"/>
+            <nd ref="1431217404"/>
+            <nd ref="1431217405"/>
+            <nd ref="1431217406"/>
+            <nd ref="1431217407"/>
+            <nd ref="1431217408"/>
+            <nd ref="521222047"/>
+            <nd ref="521222052"/>
+            <nd ref="521222053"/>
+            <nd ref="521222054"/>
+            <nd ref="521222055"/>
+            <nd ref="521222056"/>
+            <nd ref="521222057"/>
+            <nd ref="521222059"/>
+            <nd ref="521222060"/>
+            <nd ref="521222062"/>
+            <nd ref="521222064"/>
+            <nd ref="521222066"/>
+            <nd ref="-4"/>
+            <nd ref="521222068"/>
+            <tag k="alt_name" v="Zalkšu ceļš"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Zalkšu ceļš 2"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-11" version="0" timestamp="">
+            <nd ref="521222068"/>
+            <nd ref="-124"/>
+            <nd ref="-5"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Zalkšu ceļš"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-12" version="0" timestamp="">
+            <nd ref="1416229894"/>
+            <nd ref="-11"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Briežu ceļš"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-13" version="0" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1271648505"/>
+            <nd ref="1416229891"/>
+            <nd ref="1416229893"/>
+            <nd ref="1416229894"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Briežu ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-14" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="30883357"/>
+            <nd ref="1408192140"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-15" version="0" timestamp="">
+            <nd ref="4535953109"/>
+            <nd ref="-129"/>
+            <nd ref="-130"/>
+            <nd ref="-131"/>
+            <nd ref="-132"/>
+            <nd ref="-133"/>
+            <nd ref="-134"/>
+            <nd ref="-135"/>
+            <nd ref="-136"/>
+            <nd ref="-137"/>
+            <nd ref="-138"/>
+            <nd ref="-139"/>
+            <nd ref="-140"/>
+            <nd ref="-141"/>
+            <nd ref="-142"/>
+            <nd ref="4537361941"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-16" version="0" timestamp="">
+            <nd ref="-125"/>
+            <nd ref="-126"/>
+            <nd ref="-127"/>
+            <nd ref="-128"/>
+            <nd ref="7857246013"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-17" version="0" timestamp="">
+            <nd ref="5250075368"/>
+            <nd ref="-157"/>
+            <nd ref="-158"/>
+            <nd ref="-159"/>
+            <nd ref="-160"/>
+            <nd ref="-161"/>
+            <nd ref="-162"/>
+            <nd ref="-163"/>
+            <nd ref="1662815496"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-18" version="0" timestamp="">
+            <nd ref="390253336"/>
+            <nd ref="-143"/>
+            <nd ref="-144"/>
+            <nd ref="-145"/>
+            <nd ref="-146"/>
+            <nd ref="-147"/>
+            <nd ref="-148"/>
+            <nd ref="-149"/>
+            <nd ref="-150"/>
+            <nd ref="-151"/>
+            <nd ref="-152"/>
+            <nd ref="-153"/>
+            <nd ref="-154"/>
+            <nd ref="-155"/>
+            <nd ref="-156"/>
+            <nd ref="2997267672"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-19" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="5250075368"/>
+            <nd ref="278803239"/>
+            <nd ref="1416230083"/>
+            <nd ref="2997267672"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-20" version="0" timestamp="">
+            <nd ref="1416229995"/>
+            <nd ref="-174"/>
+            <nd ref="-175"/>
+            <nd ref="-176"/>
+            <nd ref="-177"/>
+            <nd ref="-178"/>
+            <nd ref="-179"/>
+            <nd ref="-180"/>
+            <nd ref="-181"/>
+            <nd ref="-182"/>
+            <nd ref="-183"/>
+            <nd ref="-184"/>
+            <nd ref="-185"/>
+            <nd ref="-186"/>
+            <nd ref="-187"/>
+            <nd ref="-188"/>
+            <nd ref="-189"/>
+            <nd ref="-190"/>
+            <nd ref="-191"/>
+            <nd ref="-192"/>
+            <nd ref="-193"/>
+            <nd ref="-194"/>
+            <nd ref="-195"/>
+            <nd ref="-196"/>
+            <nd ref="-197"/>
+            <nd ref="-198"/>
+            <nd ref="1408192140"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-21" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="1416229995"/>
+            <nd ref="4535953108"/>
+            <nd ref="1416229997"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="-22" version="0" timestamp="">
+            <nd ref="5250075386"/>
+            <nd ref="-169"/>
+            <nd ref="-170"/>
+            <nd ref="-171"/>
+            <nd ref="-172"/>
+            <nd ref="-173"/>
+            <nd ref="1416230000"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-23" version="0" timestamp="">
+            <nd ref="4535953128"/>
+            <nd ref="-164"/>
+            <nd ref="-165"/>
+            <nd ref="-166"/>
+            <nd ref="-167"/>
+            <nd ref="-168"/>
+            <nd ref="5250075371"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-24" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="5250075386"/>
+            <nd ref="1416230016"/>
+            <nd ref="5250075371"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-25" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="390253336"/>
+            <nd ref="4535953111"/>
+            <nd ref="4537361941"/>
+            <nd ref="278803242"/>
+            <nd ref="7888306525"/>
+            <nd ref="7888306524"/>
+            <nd ref="278803243"/>
+            <nd ref="4217876979"/>
+            <nd ref="4535953109"/>
+            <nd ref="7857246013"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-26" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="4535953128"/>
+            <nd ref="1662815496"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-27" version="0" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1416229997"/>
+            <nd ref="1416230000"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="layer" v="1"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="unpaved"/>
+            <tag k="bridge" v="yes"/>
+        </way>
+        <way id="-28" version="0" timestamp="">
+            <nd ref="1408192217"/>
+            <nd ref="-120"/>
+            <nd ref="-121"/>
+            <nd ref="-122"/>
+            <nd ref="-8"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Dumbru ceļš"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-29" version="0" timestamp="">
+            <nd ref="-5"/>
+            <nd ref="-12"/>
+            <nd ref="-13"/>
+            <nd ref="-14"/>
+            <nd ref="-4"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Zalkši"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-30" version="0" timestamp="">
+            <nd ref="-2"/>
+            <nd ref="-116"/>
+            <nd ref="-117"/>
+            <nd ref="-118"/>
+            <nd ref="-119"/>
+            <nd ref="-3"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Līkais dambis (Rindas iec.)"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-31" version="0" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="7857246013"/>
+            <nd ref="278803244"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="-32" version="0" timestamp="">
+            <nd ref="-15"/>
+            <nd ref="-16"/>
+            <nd ref="-17"/>
+            <nd ref="-18"/>
+            <nd ref="-19"/>
+            <nd ref="-20"/>
+            <nd ref="-21"/>
+            <nd ref="-22"/>
+            <nd ref="-23"/>
+            <nd ref="-24"/>
+            <nd ref="-25"/>
+            <nd ref="-26"/>
+            <nd ref="-27"/>
+            <nd ref="-28"/>
+            <nd ref="-29"/>
+            <nd ref="-30"/>
+            <nd ref="-31"/>
+            <nd ref="-32"/>
+            <nd ref="-33"/>
+            <nd ref="-34"/>
+            <nd ref="-35"/>
+            <nd ref="-36"/>
+            <nd ref="-37"/>
+            <nd ref="-38"/>
+            <nd ref="-39"/>
+            <nd ref="-40"/>
+            <nd ref="-41"/>
+            <nd ref="-42"/>
+            <nd ref="-43"/>
+            <nd ref="-44"/>
+            <nd ref="-45"/>
+            <nd ref="-46"/>
+            <nd ref="-47"/>
+            <nd ref="-48"/>
+            <nd ref="-49"/>
+            <nd ref="-50"/>
+            <nd ref="-51"/>
+            <nd ref="-52"/>
+            <nd ref="-53"/>
+            <nd ref="-54"/>
+            <nd ref="-55"/>
+            <nd ref="-56"/>
+            <nd ref="-57"/>
+            <nd ref="-58"/>
+            <nd ref="-59"/>
+            <nd ref="-60"/>
+            <nd ref="-61"/>
+            <nd ref="-62"/>
+            <nd ref="-63"/>
+            <nd ref="-64"/>
+            <nd ref="-65"/>
+            <nd ref="-66"/>
+            <nd ref="-67"/>
+            <nd ref="-68"/>
+            <nd ref="-69"/>
+            <nd ref="-70"/>
+            <nd ref="-71"/>
+            <nd ref="-72"/>
+            <nd ref="-73"/>
+            <nd ref="-74"/>
+            <nd ref="-75"/>
+            <nd ref="-76"/>
+            <nd ref="-77"/>
+            <nd ref="-78"/>
+            <nd ref="-79"/>
+            <nd ref="-80"/>
+            <nd ref="-81"/>
+            <nd ref="-82"/>
+            <nd ref="-83"/>
+            <nd ref="-84"/>
+            <nd ref="-85"/>
+            <nd ref="-86"/>
+            <nd ref="-87"/>
+            <nd ref="-88"/>
+            <nd ref="-89"/>
+            <nd ref="-90"/>
+            <nd ref="-91"/>
+            <nd ref="-92"/>
+            <nd ref="-93"/>
+            <nd ref="-94"/>
+            <nd ref="-95"/>
+            <nd ref="-96"/>
+            <nd ref="-97"/>
+            <nd ref="-98"/>
+            <nd ref="-99"/>
+            <nd ref="-100"/>
+            <nd ref="-101"/>
+            <nd ref="-102"/>
+            <nd ref="-103"/>
+            <nd ref="-104"/>
+            <nd ref="-105"/>
+            <nd ref="-106"/>
+            <nd ref="-107"/>
+            <nd ref="-108"/>
+            <nd ref="-109"/>
+            <nd ref="-110"/>
+            <nd ref="-111"/>
+            <nd ref="-112"/>
+            <nd ref="-113"/>
+            <nd ref="-114"/>
+            <nd ref="-115"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Cepļakangara ceļš"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+    </create>
+    <modify>
+        <way id="25576962" version="11" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="1408192140"/>
+            <nd ref="4217876928"/>
+            <nd ref="1408192215"/>
+            <nd ref="4535953117"/>
+            <nd ref="278803235"/>
+            <nd ref="278803236"/>
+            <nd ref="1416229991"/>
+            <nd ref="1416229995"/>
+            <nd ref="4535953108"/>
+            <nd ref="1416229997"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+    </modify>
+    <delete>
+        <way id="26014763" version="9" timestamp="2021-08-14T23:12:17Z">
+            <nd ref="1408192031"/>
+            <nd ref="8839235780"/>
+            <nd ref="8839225396"/>
+            <nd ref="1408192033"/>
+            <nd ref="8839225397"/>
+            <nd ref="1408192035"/>
+            <nd ref="8839225398"/>
+            <nd ref="1408192036"/>
+            <nd ref="8839225399"/>
+            <nd ref="8839225400"/>
+            <nd ref="1408192040"/>
+            <nd ref="7497990525"/>
+            <nd ref="1408192058"/>
+            <nd ref="7497990523"/>
+            <nd ref="1408192064"/>
+            <nd ref="7497990524"/>
+            <nd ref="1408192062"/>
+            <nd ref="9007294473"/>
+            <nd ref="1408192057"/>
+            <nd ref="9007294474"/>
+            <nd ref="9007294475"/>
+            <nd ref="9007294476"/>
+            <nd ref="1408192053"/>
+            <nd ref="9007294477"/>
+            <nd ref="1408192048"/>
+            <nd ref="9007294478"/>
+            <nd ref="9007294479"/>
+            <nd ref="1408192046"/>
+            <nd ref="9007294481"/>
+            <nd ref="9007294480"/>
+            <nd ref="1408192055"/>
+            <nd ref="9007294490"/>
+            <nd ref="9007294489"/>
+            <nd ref="9007294482"/>
+            <nd ref="9007294486"/>
+            <nd ref="9007294483"/>
+            <nd ref="9007294484"/>
+            <nd ref="1408192066"/>
+            <nd ref="9007294485"/>
+            <nd ref="1408192068"/>
+            <nd ref="9007294488"/>
+            <nd ref="9007294487"/>
+            <nd ref="1408192069"/>
+            <nd ref="1662815005"/>
+            <nd ref="1662815007"/>
+            <nd ref="1408192073"/>
+            <nd ref="1662815009"/>
+            <nd ref="1408192079"/>
+            <nd ref="1662815013"/>
+            <nd ref="1408192087"/>
+            <nd ref="1662815029"/>
+            <nd ref="1408192096"/>
+            <nd ref="1662815037"/>
+            <nd ref="1408192098"/>
+            <nd ref="1662815054"/>
+            <nd ref="1408192097"/>
+            <nd ref="1408192083"/>
+            <nd ref="7497990521"/>
+            <nd ref="7497990520"/>
+            <nd ref="7497990519"/>
+            <nd ref="7497990518"/>
+            <nd ref="1408192082"/>
+            <nd ref="7497990517"/>
+            <nd ref="7497990516"/>
+            <nd ref="7497990515"/>
+            <nd ref="1408192078"/>
+            <nd ref="1408192085"/>
+            <nd ref="1408192094"/>
+            <nd ref="9007294529"/>
+            <nd ref="7497990514"/>
+            <nd ref="283920565"/>
+            <nd ref="5250075469"/>
+            <nd ref="1408192190"/>
+            <nd ref="1662815289"/>
+            <nd ref="5250075456"/>
+            <nd ref="5250075455"/>
+            <nd ref="5250075454"/>
+            <nd ref="5250075453"/>
+            <nd ref="1662815314"/>
+            <nd ref="1662815318"/>
+            <nd ref="1662815362"/>
+            <nd ref="5250075445"/>
+            <nd ref="5250075444"/>
+            <nd ref="5250075443"/>
+            <nd ref="5250075442"/>
+            <nd ref="283920562"/>
+            <nd ref="5250075441"/>
+            <nd ref="5250075440"/>
+            <nd ref="5250075439"/>
+            <nd ref="5250075438"/>
+            <nd ref="5250075425"/>
+            <nd ref="5250075437"/>
+            <nd ref="5250075428"/>
+            <nd ref="283920557"/>
+            <nd ref="521222167"/>
+            <nd ref="5250075426"/>
+            <nd ref="5250075427"/>
+            <nd ref="1662815503"/>
+            <nd ref="283920551"/>
+            <nd ref="1662815607"/>
+            <nd ref="521222146"/>
+            <nd ref="521222147"/>
+            <nd ref="521222166"/>
+            <nd ref="283919060"/>
+            <tag k="source:datetime" v="2021-08-14T23:12:17Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Garmasta dambis"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+    </delete>
+    <modify>
+        <way id="36887572" version="7" timestamp="2021-08-14T20:48:24Z">
+            <nd ref="428881320"/>
+            <nd ref="-6"/>
+            <nd ref="428881321"/>
+            <nd ref="7497990511"/>
+            <nd ref="9007161269"/>
+            <nd ref="9007161268"/>
+            <nd ref="428881322"/>
+            <nd ref="9007161267"/>
+            <nd ref="428881323"/>
+            <nd ref="428881324"/>
+            <nd ref="429124214"/>
+            <nd ref="428881325"/>
+            <nd ref="7497990510"/>
+            <nd ref="429124217"/>
+            <nd ref="429124219"/>
+            <nd ref="429124223"/>
+            <nd ref="429124221"/>
+            <nd ref="428881326"/>
+            <nd ref="429124226"/>
+            <nd ref="7497990508"/>
+            <nd ref="7497990509"/>
+            <nd ref="428881327"/>
+            <nd ref="428881328"/>
+            <nd ref="9007161265"/>
+            <nd ref="428881329"/>
+            <nd ref="9007161266"/>
+            <nd ref="9007161264"/>
+            <nd ref="428881330"/>
+            <nd ref="9007161263"/>
+            <nd ref="9007161262"/>
+            <nd ref="9007161261"/>
+            <nd ref="428881331"/>
+            <nd ref="9007161260"/>
+            <nd ref="429124228"/>
+            <nd ref="9007161259"/>
+            <nd ref="9007161258"/>
+            <nd ref="9007161256"/>
+            <nd ref="428881332"/>
+            <nd ref="9007161255"/>
+            <nd ref="9007161254"/>
+            <nd ref="428881333"/>
+            <nd ref="9007161253"/>
+            <nd ref="9007161252"/>
+            <nd ref="9007161251"/>
+            <nd ref="428881334"/>
+            <nd ref="428881335"/>
+            <nd ref="428881336"/>
+            <nd ref="428881337"/>
+            <nd ref="428881338"/>
+            <nd ref="428881339"/>
+            <nd ref="428881340"/>
+            <nd ref="9007161250"/>
+            <nd ref="9007161249"/>
+            <nd ref="428881341"/>
+            <nd ref="9007161248"/>
+            <nd ref="428881342"/>
+            <nd ref="9007161247"/>
+            <nd ref="428881343"/>
+            <nd ref="9007161246"/>
+            <nd ref="428881344"/>
+            <nd ref="1273061017"/>
+            <nd ref="428881345"/>
+            <nd ref="9007161245"/>
+            <nd ref="9007161244"/>
+            <nd ref="521221956"/>
+            <nd ref="521221957"/>
+            <nd ref="9007161243"/>
+            <nd ref="521221958"/>
+            <nd ref="9007161242"/>
+            <nd ref="521221959"/>
+            <nd ref="9007161241"/>
+            <nd ref="521221960"/>
+            <nd ref="9007161239"/>
+            <nd ref="9007161240"/>
+            <nd ref="9007161238"/>
+            <nd ref="9007161237"/>
+            <nd ref="9007161236"/>
+            <nd ref="521221962"/>
+            <nd ref="9007161235"/>
+            <nd ref="521221965"/>
+            <nd ref="9007161234"/>
+            <nd ref="521221967"/>
+            <nd ref="9007161233"/>
+            <nd ref="9007161232"/>
+            <nd ref="521221969"/>
+            <nd ref="9007161230"/>
+            <nd ref="9007161231"/>
+            <nd ref="521221974"/>
+            <nd ref="9007161228"/>
+            <nd ref="9007161226"/>
+            <nd ref="9007161227"/>
+            <nd ref="9007161229"/>
+            <nd ref="7497990505"/>
+            <nd ref="9007161223"/>
+            <nd ref="9007161224"/>
+            <nd ref="9007161225"/>
+            <nd ref="521567745"/>
+            <nd ref="9007161222"/>
+            <nd ref="9007161221"/>
+            <nd ref="521567744"/>
+            <nd ref="9007161220"/>
+            <nd ref="521567736"/>
+            <nd ref="9007161219"/>
+            <nd ref="9007161218"/>
+            <nd ref="7497990506"/>
+            <nd ref="9007161217"/>
+            <nd ref="7497990507"/>
+            <nd ref="9007153716"/>
+            <nd ref="9007153715"/>
+            <nd ref="521567756"/>
+            <nd ref="9007153711"/>
+            <nd ref="9007153710"/>
+            <nd ref="521567757"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-14T20:48:24Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Viršu ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="42017685" version="1" timestamp="2009-10-05T08:39:23Z">
+            <nd ref="521221969"/>
+            <nd ref="-7"/>
+            <nd ref="521221971"/>
+            <nd ref="521221972"/>
+            <nd ref="521221976"/>
+            <nd ref="521221978"/>
+            <nd ref="521221981"/>
+            <nd ref="521221983"/>
+            <nd ref="521221985"/>
+            <nd ref="521221987"/>
+            <nd ref="521222010"/>
+            <nd ref="521222012"/>
+            <nd ref="521222014"/>
+            <nd ref="521222016"/>
+            <nd ref="521222018"/>
+            <nd ref="521222020"/>
+            <nd ref="521222023"/>
+            <nd ref="521222025"/>
+            <nd ref="521222027"/>
+            <nd ref="521222028"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2009-10-05T08:39:23Z"/>
+            <tag k="operator" v="Latvijas valsts meži"/>
+            <tag k="highway" v="track"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Viršu ceļš"/>
+            <tag k="surface" v="gravel"/>
+            <tag k="tracktype" v="grade4"/>
+        </way>
+        <way id="42017693" version="5" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="521222068"/>
+            <nd ref="-5"/>
+            <nd ref="521222070"/>
+            <nd ref="521222072"/>
+            <nd ref="521222074"/>
+            <nd ref="521222076"/>
+            <nd ref="521222078"/>
+            <nd ref="521222091"/>
+            <nd ref="521222093"/>
+            <nd ref="521222095"/>
+            <nd ref="521222097"/>
+            <nd ref="521222098"/>
+            <nd ref="521222100"/>
+            <nd ref="521222102"/>
+            <nd ref="521222103"/>
+            <nd ref="1662815485"/>
+            <nd ref="521222105"/>
+            <nd ref="1662815488"/>
+            <nd ref="521222107"/>
+            <nd ref="521222109"/>
+            <nd ref="7497990513"/>
+            <nd ref="283917829"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Zalkši"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+    </modify>
+    <delete>
+        <way id="42017695" version="3" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1431217394"/>
+            <nd ref="1431217393"/>
+            <nd ref="1431217391"/>
+            <nd ref="1431217390"/>
+            <nd ref="1431217392"/>
+            <nd ref="1431217395"/>
+            <nd ref="1431217396"/>
+            <nd ref="1431217397"/>
+            <nd ref="1431217398"/>
+            <nd ref="1431217399"/>
+            <nd ref="1431217400"/>
+            <nd ref="1431217401"/>
+            <nd ref="1431217402"/>
+            <nd ref="1431217403"/>
+            <nd ref="1431217404"/>
+            <nd ref="1431217405"/>
+            <nd ref="1431217406"/>
+            <nd ref="1431217407"/>
+            <nd ref="1431217408"/>
+            <nd ref="521222047"/>
+            <nd ref="521222052"/>
+            <nd ref="521222053"/>
+            <nd ref="521222054"/>
+            <nd ref="521222055"/>
+            <nd ref="521222056"/>
+            <nd ref="521222057"/>
+            <nd ref="521222059"/>
+            <nd ref="521222060"/>
+            <nd ref="521222062"/>
+            <nd ref="521222064"/>
+            <nd ref="521222066"/>
+            <nd ref="521222068"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Zalkšu ceļš 2"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+    </delete>
+    <modify>
+        <way id="42028052" version="5" timestamp="2021-04-21T12:27:25Z">
+            <nd ref="521543104"/>
+            <nd ref="1271648519"/>
+            <nd ref="521543103"/>
+            <nd ref="1271648597"/>
+            <nd ref="1431217373"/>
+            <nd ref="8648296925"/>
+            <nd ref="521543102"/>
+            <nd ref="1271648558"/>
+            <nd ref="1271648530"/>
+            <nd ref="1271648591"/>
+            <nd ref="-115"/>
+            <nd ref="1271648550"/>
+            <nd ref="1271648657"/>
+            <nd ref="521543101"/>
+            <nd ref="1271648491"/>
+            <nd ref="521543100"/>
+            <nd ref="8651315277"/>
+            <nd ref="521236460"/>
+            <tag k="source:datetime" v="2021-04-21T12:27:25Z"/>
+            <tag k="highway" v="unclassified"/>
+        </way>
+        <way id="127166733" version="5" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="1408192215"/>
+            <nd ref="1408192207"/>
+            <nd ref="9010960363"/>
+            <nd ref="9010960362"/>
+            <nd ref="9010960364"/>
+            <nd ref="9010960365"/>
+            <nd ref="1408192204"/>
+            <nd ref="9010960366"/>
+            <nd ref="1408192206"/>
+            <nd ref="9010960368"/>
+            <nd ref="9010960369"/>
+            <nd ref="9010960370"/>
+            <nd ref="9010960367"/>
+            <nd ref="9010960371"/>
+            <nd ref="9010960372"/>
+            <nd ref="1408192203"/>
+            <nd ref="9010960374"/>
+            <nd ref="9010960373"/>
+            <nd ref="1408192202"/>
+            <nd ref="9010960381"/>
+            <nd ref="1408192200"/>
+            <nd ref="1408192192"/>
+            <nd ref="9010960375"/>
+            <nd ref="9010960386"/>
+            <nd ref="1408192199"/>
+            <nd ref="9010960385"/>
+            <nd ref="1408192201"/>
+            <nd ref="9010960382"/>
+            <nd ref="9010960383"/>
+            <nd ref="9010960384"/>
+            <nd ref="1408192216"/>
+            <nd ref="-8"/>
+            <nd ref="1408192217"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="LVM:LVM meža ceļi"/>
+            <tag k="name" v="Dumbru ceļš"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+    </modify>
+    <delete>
+        <way id="127166736" version="5" timestamp="2021-08-14T23:12:17Z">
+            <nd ref="1408192190"/>
+            <nd ref="1416229906"/>
+            <nd ref="9007294534"/>
+            <nd ref="9007294535"/>
+            <nd ref="283917345"/>
+            <tag k="source:datetime" v="2021-08-14T23:12:17Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Starpdambju ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="127166744" version="5" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="1408192140"/>
+            <nd ref="1408192139"/>
+            <nd ref="1408192141"/>
+            <nd ref="1662815135"/>
+            <nd ref="1408192143"/>
+            <nd ref="9010960361"/>
+            <nd ref="1408192156"/>
+            <nd ref="1408192157"/>
+            <nd ref="1408192158"/>
+            <nd ref="1408192159"/>
+            <nd ref="1408192169"/>
+            <nd ref="1408192171"/>
+            <nd ref="1408192170"/>
+            <nd ref="1408192176"/>
+            <nd ref="1408192178"/>
+            <nd ref="1408192173"/>
+            <nd ref="1662815184"/>
+            <nd ref="1408192174"/>
+            <nd ref="1408192186"/>
+            <nd ref="1408192185"/>
+            <nd ref="1408192172"/>
+            <nd ref="1408192162"/>
+            <nd ref="1408192161"/>
+            <nd ref="1408192155"/>
+            <nd ref="1408192145"/>
+            <nd ref="1408192147"/>
+            <nd ref="1408192154"/>
+            <nd ref="1662815149"/>
+            <nd ref="1408192142"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="track"/>
+            <tag k="name" v="Brūkleņu ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="127191744" version="5" timestamp="2021-08-14T23:12:17Z">
+            <nd ref="380250907"/>
+            <nd ref="8811130486"/>
+            <nd ref="7497990512"/>
+            <nd ref="1408395448"/>
+            <nd ref="1408395452"/>
+            <nd ref="1408395454"/>
+            <nd ref="1408395456"/>
+            <nd ref="1408395458"/>
+            <nd ref="1408395460"/>
+            <nd ref="1408395461"/>
+            <nd ref="1408395470"/>
+            <nd ref="1408395471"/>
+            <nd ref="1408395472"/>
+            <nd ref="1408395473"/>
+            <nd ref="1408395474"/>
+            <nd ref="1408395476"/>
+            <nd ref="1408395478"/>
+            <nd ref="1408395480"/>
+            <nd ref="1408395495"/>
+            <nd ref="1408395496"/>
+            <nd ref="1408395501"/>
+            <nd ref="1408395503"/>
+            <nd ref="1408395511"/>
+            <nd ref="1408395515"/>
+            <nd ref="1408395513"/>
+            <nd ref="1408395518"/>
+            <nd ref="1408395520"/>
+            <nd ref="1408395524"/>
+            <nd ref="1408395527"/>
+            <nd ref="1408395540"/>
+            <nd ref="1408395544"/>
+            <nd ref="1408395548"/>
+            <nd ref="1408395551"/>
+            <nd ref="1408395552"/>
+            <nd ref="1408395554"/>
+            <nd ref="1408395556"/>
+            <nd ref="1408395558"/>
+            <nd ref="1408395566"/>
+            <nd ref="1408395568"/>
+            <nd ref="1408395570"/>
+            <nd ref="1408395573"/>
+            <tag k="source:datetime" v="2021-08-14T23:12:17Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Sēņu ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+    </delete>
+    <modify>
+        <way id="128087536" version="2" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1416229997"/>
+            <nd ref="1416230000"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+        </way>
+    </modify>
+    <delete>
+        <way id="128087539" version="2" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1271648505"/>
+            <nd ref="1416229891"/>
+            <nd ref="1416229893"/>
+            <nd ref="1416229894"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Briežu ceļš"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+    </delete>
+    <modify>
+        <way id="153644828" version="3" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1662815353"/>
+            <nd ref="-3"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="Ances pagagasta ter. planojums;LVM:LVM meža ceļi"/>
+            <tag k="name" v="Līkais dambis (Rindas iec.)"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+        <way id="153644832" version="5" timestamp="2020-05-08T12:38:34Z">
+            <nd ref="1408192215"/>
+            <nd ref="1662815305"/>
+            <nd ref="4535931271"/>
+            <nd ref="1662815308"/>
+            <nd ref="1662815300"/>
+            <nd ref="1662815302"/>
+            <nd ref="1662815295"/>
+            <nd ref="1662815293"/>
+            <nd ref="1662815296"/>
+            <nd ref="1662815310"/>
+            <nd ref="1662815312"/>
+            <nd ref="1662815315"/>
+            <nd ref="5250075495"/>
+            <nd ref="1662815343"/>
+            <nd ref="5250075494"/>
+            <nd ref="5250075493"/>
+            <nd ref="4535931269"/>
+            <nd ref="1662815340"/>
+            <nd ref="1662815317"/>
+            <nd ref="1662815346"/>
+            <nd ref="-2"/>
+            <nd ref="1662815353"/>
+            <tag k="alt_name" v="Līkais dambis (Rindas iec.);Līkais dambis 2(Rindas iec.)"/>
+            <tag k="operator:website" v="https://www.lvm.lv"/>
+            <tag k="operator:wikipedia" v="https://lv.wikipedia.org/wiki/Latvijas_valsts_me%C5%BEi"/>
+            <tag k="source:datetime" v="2020-05-08T12:38:34Z"/>
+            <tag k="operator" v="LVM;Latvijas valsts meži"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="operator:abbr" v="LVM"/>
+            <tag k="source" v="Ances pagagasta ter. planojums;LVM:LVM meža ceļi"/>
+            <tag k="name" v="Līkais dambis 2 (Rindas iec.)"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+        <way id="932971034" version="3" timestamp="2021-04-21T12:27:25Z">
+            <nd ref="417791016"/>
+            <nd ref="8651316522"/>
+            <nd ref="8648296959"/>
+            <nd ref="8648296958"/>
+            <nd ref="8648296962"/>
+            <nd ref="8648296957"/>
+            <nd ref="8648296956"/>
+            <nd ref="8648296955"/>
+            <nd ref="8648296949"/>
+            <nd ref="-15"/>
+            <nd ref="8648296948"/>
+            <nd ref="8648296947"/>
+            <nd ref="8648296946"/>
+            <nd ref="8648296954"/>
+            <nd ref="8648296953"/>
+            <nd ref="8648296945"/>
+            <nd ref="8648296944"/>
+            <nd ref="8648296952"/>
+            <nd ref="8648296943"/>
+            <nd ref="8648296951"/>
+            <nd ref="8648296950"/>
+            <nd ref="8648296936"/>
+            <nd ref="8648296935"/>
+            <nd ref="8648296942"/>
+            <nd ref="8648296934"/>
+            <nd ref="8648296941"/>
+            <nd ref="8648296940"/>
+            <nd ref="8648296933"/>
+            <nd ref="8648296939"/>
+            <nd ref="8648296932"/>
+            <nd ref="8648296931"/>
+            <nd ref="8648296938"/>
+            <nd ref="8648296937"/>
+            <nd ref="8648296930"/>
+            <tag k="source:datetime" v="2021-04-21T12:27:25Z"/>
+            <tag k="railway" v="abandoned"/>
+            <tag k="source" v="ZemeLKS"/>
+        </way>
+    </modify>
+    <delete>
+        <way id="973614496" version="1" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="4535953111"/>
+            <nd ref="4537361941"/>
+            <nd ref="278803242"/>
+            <nd ref="7888306525"/>
+            <nd ref="7888306524"/>
+            <nd ref="278803243"/>
+            <nd ref="4217876979"/>
+            <nd ref="4535953109"/>
+            <nd ref="7857246013"/>
+            <nd ref="278803244"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+    </delete>
+    <modify>
+        <way id="973614497" version="1" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="1416230076"/>
+            <nd ref="5250075358"/>
+            <nd ref="5250075357"/>
+            <nd ref="5250075368"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="gravel"/>
+        </way>
+    </modify>
+    <delete>
+        <way id="973614501" version="1" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="30883357"/>
+            <nd ref="1408192140"/>
+            <nd ref="4217876928"/>
+            <nd ref="1408192215"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+            <tag k="operator" v="LVM"/>
+            <tag k="highway" v="unclassified"/>
+            <tag k="name" v="Vičaku dambis"/>
+            <tag k="surface" v="unpaved"/>
+        </way>
+    </delete>
+    <modify>
+        <way id="973614502" version="1" timestamp="2021-08-16T18:57:40Z">
+            <nd ref="1408192215"/>
+            <nd ref="1408192207"/>
+            <nd ref="9010960363"/>
+            <nd ref="9010960362"/>
+            <nd ref="9010960364"/>
+            <nd ref="9010960365"/>
+            <nd ref="1408192204"/>
+            <nd ref="9010960366"/>
+            <nd ref="1408192206"/>
+            <nd ref="9010960368"/>
+            <nd ref="9010960369"/>
+            <nd ref="9010960370"/>
+            <nd ref="9010960367"/>
+            <nd ref="9010960371"/>
+            <nd ref="9010960372"/>
+            <nd ref="1408192203"/>
+            <nd ref="9010960374"/>
+            <nd ref="9010960373"/>
+            <nd ref="1408192202"/>
+            <nd ref="9010960381"/>
+            <nd ref="1408192200"/>
+            <nd ref="1408192192"/>
+            <tag k="source:datetime" v="2021-08-16T18:57:40Z"/>
+        </way>
+    </modify>
+    <delete>
+        <relation id="72594" version="279" timestamp="2021-09-02T17:21:39Z">
+            <member type="relation" ref="1775821" role="subarea"/>
+            <member type="relation" ref="1775647" role="subarea"/>
+            <member type="relation" ref="1775823" role="subarea"/>
+            <member type="relation" ref="1775676" role="subarea"/>
+            <tag k="name:scn" v="Lettunia"/>
+            <tag k="name:sco" v="Latvie"/>
+            <tag k="timezone" v="Europe/Riga"/>
+            <tag k="name:zea" v="Letland"/>
+            <tag k="name:stq" v="Letlound"/>
+            <tag k="capital_city" v="Riga"/>
+            <tag k="official_name:id" v="Republik Latvia"/>
+            <tag k="ref:nuts:1" v="LV0"/>
+            <tag k="ref:nuts:2" v="LV00"/>
+            <tag k="border_type" v="nation"/>
+            <tag k="name:qu" v="Litunya"/>
+            <tag k="official_name:it" v="Repubblica di Lettonia"/>
+            <tag k="name:hif" v="Latvia"/>
+            <tag k="name:ab" v="Латвиа"/>
+            <tag k="name:af" v="Letland"/>
+            <tag k="name:ak" v="Latvia"/>
+            <tag k="name:pms" v="Letònia"/>
+            <tag k="name:am" v="ላትቪያ"/>
+            <tag k="name:an" v="Letonia"/>
+            <tag k="name:vls" v="Letland"/>
+            <tag k="name:ar" v="لاتفيا"/>
+            <tag k="name:ltg" v="Latveja"/>
+            <tag k="name:rm" v="Lettonia"/>
+            <tag k="name:ro" v="Letonia"/>
+            <tag k="name:ilo" v="Latvia"/>
+            <tag k="name:av" v="Латвия"/>
+            <tag k="name:pnb" v="لیٹویا"/>
+            <tag k="name:kaa" v="Latviya"/>
+            <tag k="name:az" v="Latviya"/>
+            <tag k="name:xal" v="Латдин Орн"/>
+            <tag k="name:fur" v="Letonie"/>
+            <tag k="name:kab" v="Liṭṭunya"/>
+            <tag k="name:ru" v="Латвия"/>
+            <tag k="name:rw" v="Lativiya"/>
+            <tag k="name:ba" v="Латвия"/>
+            <tag k="name:krc" v="Латвия"/>
+            <tag k="name:be" v="Латвія"/>
+            <tag k="name:yue" v="拉脫維亞"/>
+            <tag k="name:bg" v="Латвия"/>
+            <tag k="name:sa" v="लाट्विया"/>
+            <tag k="name:bh" v="लैटविया"/>
+            <tag k="name:bi" v="Latvia"/>
+            <tag k="name:sc" v="Lettonia"/>
+            <tag k="name:se" v="Latvia"/>
+            <tag k="name:pnt" v="Λετονία"/>
+            <tag k="name:bn" v="লাতভিয়া"/>
+            <tag k="name:sh" v="Letonija"/>
+            <tag k="name:bo" v="ལ་ཊ་ཝིཡ།"/>
+            <tag k="name:si" v="ලැට්වියාව"/>
+            <tag k="name:sk" v="Lotyšsko"/>
+            <tag k="name:br" v="Latvia"/>
+            <tag k="name:sl" v="Latvija"/>
+            <tag k="name:bs" v="Latvija"/>
+            <tag k="name:sm" v="Lativia"/>
+            <tag k="wikidata" v="Q211"/>
+            <tag k="name:sn" v="Latvia"/>
+            <tag k="name:so" v="Latfiya"/>
+            <tag k="name:sq" v="Letonia"/>
+            <tag k="name:sr" v="Летонија"/>
+            <tag k="name:ss" v="ILathiviya"/>
+            <tag k="name:st" v="Latvia"/>
+            <tag k="name:su" v="Latvia"/>
+            <tag k="name:sv" v="Lettland"/>
+            <tag k="name:kbd" v="Латвиэ"/>
+            <tag k="name:sw" v="Latvia"/>
+            <tag k="name:ca" v="Letònia"/>
+            <tag k="name:ce" v="Латви"/>
+            <tag k="name:ta" v="லாத்வியா"/>
+            <tag k="ISO3166-1" v="LV"/>
+            <tag k="admin_level" v="2"/>
+            <tag k="name:ch" v="Letonia"/>
+            <tag k="name:te" v="లాట్వియా"/>
+            <tag k="name:tg" v="Латвия"/>
+            <tag k="name:th" v="ประเทศลัตเวีย"/>
+            <tag k="name:co" v="Lettonia"/>
+            <tag k="name:tk" v="Latwiýa"/>
+            <tag k="name:tl" v="Latbiya"/>
+            <tag k="name:cs" v="Lotyšsko"/>
+            <tag k="name:cu" v="Латвїꙗ"/>
+            <tag k="name:rue" v="Латвія"/>
+            <tag k="name:tzl" v="Latvia"/>
+            <tag k="name:cv" v="Латви"/>
+            <tag k="name:tr" v="Letonya"/>
+            <tag k="name:cy" v="Latfia"/>
+            <tag k="name:ts" v="Latvia"/>
+            <tag k="name:tt" v="Латвия"/>
+            <tag k="name:tw" v="Latvia"/>
+            <tag k="official_name:lt" v="Latvijos Respublika"/>
+            <tag k="name:da" v="Letland"/>
+            <tag k="name:de" v="Lettland"/>
+            <tag k="name:mhr" v="Латвий"/>
+            <tag k="name:ug" v="لاتۋىيە"/>
+            <tag k="name:dsb" v="Letiska"/>
+            <tag k="name:uk" v="Латвія"/>
+            <tag k="name:war" v="Letonia"/>
+            <tag k="name:dv" v="ލެޓުވިއާ"/>
+            <tag k="name:ur" v="لٹویا"/>
+            <tag k="source:datetime" v="2021-09-02T17:21:39Z"/>
+            <tag k="name:dz" v="ལེཊི་བི་ཡ།"/>
+            <tag k="name:uz" v="Latviya"/>
+            <tag k="name:ee" v="Latvia"/>
+            <tag k="name:bat-smg" v="Latvėjė"/>
+            <tag k="name:el" v="Λετονία"/>
+            <tag k="name:roa-tara" v="Lettonie"/>
+            <tag k="name:en" v="Latvia"/>
+            <tag k="name:eo" v="Latvio"/>
+            <tag k="name:vi" v="Latvia"/>
+            <tag k="is_in:continent" v="Europe"/>
+            <tag k="name:es" v="Letonia"/>
+            <tag k="name:et" v="Läti"/>
+            <tag k="name:zh_pinyin" v="Lātuōwéiyà"/>
+            <tag k="name:eu" v="Letonia"/>
+            <tag k="name:vo" v="Latviyän"/>
+            <tag k="name:jbo" v="latyv"/>
+            <tag k="name:als" v="Lettland"/>
+            <tag k="name:pam" v="Letonia"/>
+            <tag k="name:fa" v="لتونی"/>
+            <tag k="name:ff" v="Latvia"/>
+            <tag k="name:wa" v="Letoneye"/>
+            <tag k="int_name" v="Latvia"/>
+            <tag k="name:fi" v="Latvia"/>
+            <tag k="name:szl" v="Łotwa"/>
+            <tag k="name:crh" v="Latviya"/>
+            <tag k="country_code_fips" v="LG"/>
+            <tag k="name:fo" v="Lettland"/>
+            <tag k="geonames:id" v="458258"/>
+            <tag k="name:fr" v="Lettonie"/>
+            <tag k="name:wo" v="Letóoni"/>
+            <tag k="name:fy" v="Letlân"/>
+            <tag k="name:ga" v="An Laitvia"/>
+            <tag k="name:gd" v="An Laitbhe"/>
+            <tag k="name:csb" v="Łotewskô"/>
+            <tag k="official_name:be-tarask" v="Латвійская Рэспубліка"/>
+            <tag k="name:gl" v="Letonia"/>
+            <tag k="name:gn" v="Letoña"/>
+            <tag k="name:bpy" v="লাতভিয়া"/>
+            <tag k="name:ext" v="Letónia"/>
+            <tag k="name:lij" v="Lettònnia"/>
+            <tag k="name:ang" v="Lettland"/>
+            <tag k="name:fiu-vro" v="Läti"/>
+            <tag k="name:pcd" v="Létonie"/>
+            <tag k="name:gu" v="લાટવિયા"/>
+            <tag k="name:gv" v="Yn Latvey"/>
+            <tag k="official_name:pl" v="Republika Łotwy"/>
+            <tag k="name" v="Latvija"/>
+            <tag k="name:wuu" v="拉脱维亚"/>
+            <tag k="official_name:pt" v="República da Letónia"/>
+            <tag k="name:ha" v="Laitfiya"/>
+            <tag k="name:he" v="לטביה"/>
+            <tag k="name:hi" v="लातविया"/>
+            <tag k="wikipedia" v="lv:Latvija"/>
+            <tag k="name:yi" v="לעטלאנד"/>
+            <tag k="name:hr" v="Latvija"/>
+            <tag k="name:ht" v="Letoni"/>
+            <tag k="name:pdc" v="Lettlond"/>
+            <tag k="name:hu" v="Lettország"/>
+            <tag k="name:yo" v="Látfíà"/>
+            <tag k="name:nov" v="Latvia"/>
+            <tag k="name:hy" v="Լատվիա"/>
+            <tag k="name:ia" v="Latvia"/>
+            <tag k="name:bar" v="Lettland"/>
+            <tag k="name:id" v="Latvia"/>
+            <tag k="name:ie" v="Latvia"/>
+            <tag k="name:ig" v="Latvia"/>
+            <tag k="name:za" v="Latvia"/>
+            <tag k="name:roa-rup" v="Letonia"/>
+            <tag k="name:zh" v="拉脱维亚 / 拉脫維亞"/>
+            <tag k="name:io" v="Latvia"/>
+            <tag k="name:zh-Hans" v="拉脱维亚"/>
+            <tag k="name:zh-Hant" v="拉脫維亞"/>
+            <tag k="name:is" v="Lettland"/>
+            <tag k="name:it" v="Lettonia"/>
+            <tag k="name:zu" v="ILatviya"/>
+            <tag k="name:ceb" v="Latvia"/>
+            <tag k="official_name:az" v="Latviya Respublikası"/>
+            <tag k="name:hak" v="Lâ-thot-vì-â"/>
+            <tag k="name:ja" v="ラトビア"/>
+            <tag k="name:smn" v="Latvia"/>
+            <tag k="flag" v="http://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"/>
+            <tag k="name:be-tarask" v="Латвія"/>
+            <tag k="official_name:be" v="Латвійская Рэспубліка"/>
+            <tag k="name:sms" v="Latvia"/>
+            <tag k="name:tpi" v="Latvia"/>
+            <tag k="alt_name:eo" v="Latvujo"/>
+            <tag k="alt_name:es" v="Latvia"/>
+            <tag k="official_name:sk" v="Lotyšská republika"/>
+            <tag k="name:jv" v="Latvia"/>
+            <tag k="name:vec" v="Łetonia"/>
+            <tag k="name:hsb" v="Letiska"/>
+            <tag k="name:bcl" v="Latbya"/>
+            <tag k="name:ka" v="ლატვია"/>
+            <tag k="name:nah" v="Letonia"/>
+            <tag k="official_name:sv" v="Republiken Lettland"/>
+            <tag k="ISO3166-1:numeric" v="428"/>
+            <tag k="name:vep" v="Latvii"/>
+            <tag k="name:kg" v="Latvia"/>
+            <tag k="name:nan" v="Latvia"/>
+            <tag k="name:kk" v="Латвия"/>
+            <tag k="name:kl" v="Letlandi"/>
+            <tag k="name:nrm" v="Lettonnie"/>
+            <tag k="name:arc" v="ܠܐܛܒܝܐ"/>
+            <tag k="name:kn" v="ಲಾಟ್ವಿಯ"/>
+            <tag k="name:ko" v="라트비아"/>
+            <tag k="name:lmo" v="Latvia"/>
+            <tag k="name:ku" v="Letonya"/>
+            <tag k="name:kv" v="Латвия"/>
+            <tag k="name:kw" v="Latvi"/>
+            <tag k="official_name:cs" v="Lotyšská republika"/>
+            <tag k="name:ky" v="Латвия"/>
+            <tag k="name:diq" v="Letonya"/>
+            <tag k="name:la" v="Lettonia"/>
+            <tag k="name:lb" v="Lettland"/>
+            <tag k="official_name" v="Latvijas Republika"/>
+            <tag k="name:arz" v="لاتفيا"/>
+            <tag k="name:lg" v="Latvia"/>
+            <tag k="name:li" v="Letland"/>
+            <tag k="default_language" v="lv"/>
+            <tag k="name:ln" v="Letoni"/>
+            <tag k="name:gag" v="Latviya"/>
+            <tag k="name:lo" v="ປະເທດລັດເວຍ"/>
+            <tag k="name:lt" v="Latvija"/>
+            <tag k="name:lv" v="Latvija"/>
+            <tag k="name:udm" v="Латвия"/>
+            <tag k="name:ast" v="Letonia"/>
+            <tag k="boundary" v="administrative"/>
+            <tag k="name:rmy" v="Latviya"/>
+            <tag k="ISO3166-1:alpha2" v="LV"/>
+            <tag k="ISO3166-1:alpha3" v="LVA"/>
+            <tag k="official_name:uz" v="Latviya Respublikasi"/>
+            <tag k="name:mg" v="Latvia"/>
+            <tag k="name:ace" v="Latvia"/>
+            <tag k="name:mi" v="Rāwhia"/>
+            <tag k="name:mk" v="Летонија"/>
+            <tag k="name:ml" v="ലാത്‌വിയ"/>
+            <tag k="name:mn" v="Латви"/>
+            <tag k="official_name:el" v="Δημοκρατία της Λετονίας"/>
+            <tag k="name:mr" v="लात्व्हिया"/>
+            <tag k="name:ms" v="Latvia"/>
+            <tag k="official_name:en" v="Republic of Latvia"/>
+            <tag k="name:xmf" v="ლატვია"/>
+            <tag k="name:mt" v="Latvja"/>
+            <tag k="official_name:eo" v="Respubliko Latvio"/>
+            <tag k="official_name:vi" v="Cộng hòa Latvia"/>
+            <tag k="official_name:es" v="República de Letonia"/>
+            <tag k="official_name:et" v="Läti Vabariik"/>
+            <tag k="name:my" v="လတ်ဗီယာနိုင်ငံ"/>
+            <tag k="name:pih" v="Latwya"/>
+            <tag k="name:mrj" v="Латви"/>
+            <tag k="name:na" v="Ratebiya"/>
+            <tag k="name:ne" v="लात्भिया"/>
+            <tag k="name:nl" v="Letland"/>
+            <tag k="name:nds" v="Lettland"/>
+            <tag k="name:nn" v="Latvia"/>
+            <tag k="name:no" v="Latvia"/>
+            <tag k="name:nv" v="Létbiiya"/>
+            <tag k="name:sah" v="Латвия"/>
+            <tag k="name:oc" v="Letònia"/>
+            <tag k="ref:nuts" v="LV0;LV00"/>
+            <tag k="name:bxr" v="Латви"/>
+            <tag k="name:om" v="Laativiyaa"/>
+            <tag k="name:new" v="लात्भिया"/>
+            <tag k="name:frp" v="Lètonie"/>
+            <tag k="name:or" v="ଲାଟଭିଆ"/>
+            <tag k="name:os" v="Латви"/>
+            <tag k="name:frr" v="Letlönj"/>
+            <tag k="name:ckb" v="لاتڤیا"/>
+            <tag k="name:pa" v="ਲਾਤਵੀਆ"/>
+            <tag k="name:koi" v="Латвия"/>
+            <tag k="name:lad" v="Letonia"/>
+            <tag k="name:nds-nl" v="Letlaand"/>
+            <tag k="name:pi" v="लाट्विया"/>
+            <tag k="name:pl" v="Łotwa"/>
+            <tag k="name:tet" v="Letónia"/>
+            <tag k="name:mdf" v="Латвие"/>
+            <tag k="name:pt" v="Letónia"/>
+            <tag k="type" v="boundary"/>
+        </relation>
+        <relation id="1664664" version="92" timestamp="2021-06-17T18:52:28Z">
+            <member type="relation" ref="2788008" role="part"/>
+            <member type="relation" ref="2769637" role="part"/>
+            <member type="relation" ref="2788009" role="part"/>
+            <member type="relation" ref="9424203" role="part"/>
+            <member type="relation" ref="8894874" role="part"/>
+            <member type="relation" ref="1729735" role="part"/>
+            <member type="relation" ref="2776056" role="part"/>
+            <member type="relation" ref="2816077" role="part"/>
+            <member type="relation" ref="7428032" role="part"/>
+            <member type="relation" ref="5289657" role="part"/>
+            <member type="relation" ref="7458541" role="part"/>
+            <member type="relation" ref="2778866" role="part"/>
+            <member type="relation" ref="9921011" role="part"/>
+            <member type="relation" ref="10290907" role="part"/>
+            <member type="relation" ref="9241810" role="part"/>
+            <member type="relation" ref="10294229" role="part"/>
+            <member type="relation" ref="2779415" role="part"/>
+            <member type="relation" ref="2778994" role="part"/>
+            <member type="relation" ref="2779189" role="part"/>
+            <member type="relation" ref="10291334" role="part"/>
+            <tag k="name:cs" v="EuroVelo 13 - Stezka železné opony"/>
+            <tag k="colour" v="#003399"/>
+            <tag k="name" v="EuroVelo 13 - Iron Curtain Trail"/>
+            <tag k="name:nl" v="EuroVelo 13 - IJzerengordijnpad"/>
+            <tag k="source:datetime" v="2021-06-17T18:52:28Z"/>
+            <tag k="ref" v="EV13"/>
+            <tag k="name:hr" v="EuroVelo 13 - Ruta Željezne Zavjese"/>
+            <tag k="name:sk" v="EuroVelo 13 - Cesta Železnej opony"/>
+            <tag k="name:sl" v="EuroVelo 13 - Kolesarska pot ob železni zavesi"/>
+            <tag k="name:tr" v="EuroVelo 13 - Demir Perde Yolu"/>
+            <tag k="name:hu" v="EuroVelo 13 - Vasfüggöny útvonal"/>
+            <tag k="website" v="http://www.ironcurtaintrail.eu"/>
+            <tag k="wikivoyage:de" v="Thema:Iron Curtain Trail"/>
+            <tag k="network" v="icn"/>
+            <tag k="wikidata" v="Q1289628"/>
+            <tag k="distance" v="9950 km"/>
+            <tag k="name:de" v="EuroVelo 13 - Europäische Radroute Eiserner Vorhang"/>
+            <tag k="name:fr" v="EuroVelo 13 - La route du rideau de fer"/>
+            <tag k="name:en" v="EuroVelo 13 - Iron Curtain Trail"/>
+            <tag k="cycle_network" v="EuroVelo"/>
+            <tag k="wikipedia" v="de:Iron Curtain Trail (EV13)"/>
+            <tag k="name:pl" v="EuroVelo 13 - Szlak Żelaznej Kurtyny"/>
+            <tag k="route" v="bicycle"/>
+            <tag k="name:bg" v="ЕвроВело 13 - Пътя на желязната завеса"/>
+            <tag k="icn_ref" v="13"/>
+            <tag k="operator" v="European Cyclists' Federation"/>
+            <tag k="type" v="superroute"/>
+        </relation>
+    </delete>
+    <modify>
+        <relation id="2689634" version="116" timestamp="2021-06-13T02:58:55Z">
+            <member type="relation" ref="1741202" role=""/>
+            <tag k="name:pt" v="EuroVelo 10 - Circuito do Mar Báltico"/>
+            <tag k="colour" v="#003399"/>
+            <tag k="name:cs" v="EuroVelo 10 - Trasa kolem Baltského moře"/>
+            <tag k="name" v="EuroVelo 10 - Baltic Sea Cycle Route"/>
+            <tag k="name:nl" v="EuroVelo 10 - Oostzeeroute"/>
+            <tag k="name:it" v="EuroVelo 10 - Itinerario ciclistico del Mar Baltico"/>
+            <tag k="source:datetime" v="2021-06-13T02:58:55Z"/>
+            <tag k="ref" v="EV10"/>
+            <tag k="name:hr" v="EuroVelo 10 - Baltičkomorska kružna staza"/>
+            <tag k="name:sk" v="EuroVelo 10 - Trasa okolo Baltického mora"/>
+            <tag k="name:sl" v="EuroVelo 10 - Baltiška kolesarska pot"/>
+            <tag k="name:tr" v="EuroVelo 10 - Baltık Denizi Bisiklet Rotası"/>
+            <tag k="name:hu" v="EuroVelo 10 - Balti-tengeri kerékpár útvonal"/>
+            <tag k="name:fi" v="EuroVelo 10 - Itämeren kiertoreitti"/>
+            <tag k="website" v="http://www.eurovelo.com/en/eurovelos/eurovelo-10"/>
+            <tag k="source" v="MML 2012;survey"/>
+            <tag k="network" v="icn"/>
+            <tag k="wikidata" v="Q2036072"/>
+            <tag k="distance" v="9000"/>
+            <tag k="name:de" v="EuroVelo 10 - Ostseeküsten-Radweg"/>
+            <tag k="name:sv" v="EuroVelo 10 - Östersjörundan"/>
+            <tag k="name:fr" v="EuroVelo 10 - Littoral de la mer Baltique"/>
+            <tag k="name:en" v="EuroVelo 10 - Baltic Sea Cycle Route"/>
+            <tag k="cycle_network" v="EuroVelo"/>
+            <tag k="name:es" v="EuroVelo 10 - Ruta del Báltico"/>
+            <tag k="wikipedia" v="de:Ostseeküsten-Route (EV10)"/>
+            <tag k="alt_name:hu" v="EuroVelo 10 - Hanza kör"/>
+            <tag k="name:pl" v="EuroVelo 10 - Szlak Rowerowy Morza Bałtyckiego"/>
+            <tag k="route" v="bicycle"/>
+            <tag k="icn_ref" v="10"/>
+            <tag k="operator" v="European Cyclist's Federation"/>
+            <tag k="type" v="superroute"/>
+        </relation>
+        <relation id="9645842" version="15" timestamp="2021-03-11T16:42:02Z">
+            <member type="relation" ref="9391812" role=""/>
+            <tag k="ref" v="E9"/>
+            <tag k="source:datetime" v="2021-03-11T16:42:02Z"/>
+            <tag k="name:de" v="Europäischer Fernwanderweg E9, Lettland"/>
+            <tag k="operator" v="European Ramblers Association"/>
+            <tag k="wikipedia" v="en:E9 European long distance path"/>
+            <tag k="website" v="https://coastalhiking.eu/en/tour/day/1?lang=en"/>
+            <tag k="name:pl" v="Europejski długodystansowy szlak pieszy E9 - część Latvia"/>
+            <tag k="name:en" v="European long distance path E9 - part Latvia"/>
+            <tag k="wikidata" v="Q1377728"/>
+            <tag k="name" v="Europa Jūrtaka E9, Latvia"/>
+            <tag k="network" v="iwn"/>
+            <tag k="wiki:symbol" v="E 9 sign.jpg"/>
+            <tag k="symbol" v="white/blue/white"/>
+            <tag k="name:nl" v="Europese wandelroute E9, Latvia"/>
+            <tag k="route" v="hiking"/>
+            <tag k="name:et" v="Euroopa matkarada E9, Läti"/>
+            <tag k="type" v="route"/>
+        </relation>
+        <relation id="12600094" version="3" timestamp="2021-04-21T12:27:25Z">
+            <member type="way" ref="932341410" role=""/>
+            <member type="way" ref="143722191" role=""/>
+            <member type="node" ref="540918451" role="spring"/>
+            <tag k="alt_name" v="Dižirbe;Dižirve;Irbes upe;Irve"/>
+            <tag k="waterway" v="river"/>
+            <tag k="source:datetime" v="2021-04-21T12:27:25Z"/>
+            <tag k="wikipedia" v="lv:Irbe (upe)"/>
+            <tag k="alt_name:lt" v="Dižirvė"/>
+            <tag k="name" v="Irbe"/>
+            <tag k="name:lt" v="Irbė"/>
+            <tag k="alt_name:lv" v="Dižirbe;Dižirve;Irbes upe;Irve"/>
+            <tag k="name:lv" v="Irbe"/>
+            <tag k="destination" v="Baltijas jūra"/>
+            <tag k="type" v="waterway"/>
+        </relation>
+    </modify>
+</osmChange>
