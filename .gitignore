@@ -1,1 +1,7 @@
 /.idea/**
+/temp/**
+/working-dir/**
+test.osm
+test.ps1
+whole-degree-starting-grid-0.5x0.5-degrees.gmp
+LVM-investigation.gmw

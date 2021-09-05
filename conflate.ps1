@@ -1,6 +1,6 @@
 #!/usr/bin/pwsh
-# License is MIT.
-# Author Vladekk - vlad@izvne.com
+# License: MIT.
+# Author: OSM user Vladekk, vlad@izvne.com
 
 # This script is needed to split imported dataset, download same area from overpass
 # and conflate using Hootenanny.
@@ -16,51 +16,79 @@ $produceNewConflationOnEachRun = $false
 #download all Latvia osm from geofabrik (not used as file is too big to proce ||  = $tss)
 #$downloadAndSplitGeofabrik = $false
 
-$sourceName = "input-original.osm"
+# filename of the file to be imported
+$inputSourceName = "input-original.osm"
 
+#Hoot conflation algo
 #$algorithm = "NetworkAlgorithm.conf"
 $algorithm = "UnifyingAlgorithm.conf"
+
+#Hoot conflation type
 $confType = "ReferenceConflation.conf"
 #$confType = "DifferentialConflation.conf"
+
+#Input name after attribute (tag) translation to OSM standard
 $translatedInputName = "import-translated.osm"
+$translationScriptFilename = "LVM.js"
+
+#base name (w/o extension) for the import files split into grid
 $griddedBaseName = "import-gridded"
+
+#base name (w/o extension) for downloaded OSM  osm files
 $osmBaseName = "osm-source"
 $importGriddedName = "$griddedBaseName.osm"
-$tilesInGridCount = 8
+
+#width and height of the grid 
+$tilesInGridCount = 8 
 $gridName = "grid-$tilesInGridCount.osm"
+
 #$osmGeofabrikName = "geofabrik-trimmed.osm"
 
-
+#if you do not want to process some files at the beginnning, put value here, otherwise 0
 $skip = 60
+
+# How many files to process. If you want all of them, default is $tilesInGridCount*$tilesInGridCount
+#$take = $tilesInGridCount*$tilesInGridCount
 $take = 1
+
+# Override Hoot search radius
 $searchRadiusHighway = 20
 
-############### end config #######################
-
 $targetFnPrefix = "conflated"
+
+# usually, no much sense changing this
+$workingDir = 'working-dir'
+
+############### End common config #######################
+
+#Enable or disable separate script steps
+#By default, all is set to true
+
 $changesFnPrefix = "changes-" + $targetFnPrefix
 $downloadFreshFromLvm = $true
 $forceTranslateImport = $false
 $markHootChangedAsModified = $true
 $forceReconflate = $false
+
 #force fetch fresh data from overpass, otherwise use existing data downloaded in previous runs
 $forceRedownloadFromOsm = $false
 
 $lvmDatasetUrl = "https://lvmgeo.lvm.lv/PublicData/SHP/LVM_MEZA_AUTOCELI.zip"
+
+# $PSScriptRoot not working for some reason, so we are using this
+# Should be set to script directory
 $rootDir = "/mnt/d/Docs/Maps/LVM-OSM-IMPORT-2021/cur/"
-$workingDir = 'working-dir'
+
+
+################## Start ################## 
 
 Set-Location $rootDir
 New-Item  -ItemType Directory  temp -ErrorAction Ignore
 New-Item  -ItemType Directory $workingDir -ErrorAction Ignore
 
-# start
-
 $lvmFileInfo = Invoke-WebRequest -Method Head  $lvmDatasetUrl
 $lvmEtag = $lvmFileInfo.Headers.ETag[0].Trim('"').Replace(":", "")
 $lvmFilename = "$lvmEtag.zip"
-
-
 
 
 if ($downloadFreshFromLvm) {
@@ -79,7 +107,7 @@ if ($downloadFreshFromLvm) {
 Set-Location $workingDir
 
 if (-not (Test-Path $translatedInputName) || $forceTranslateImport) {
-    hoot convert  -D schema.translation.script=../lvm.js ./$sourceName ./$translatedInputName
+    hoot convert  -D schema.translation.script=../$translationScriptFilename ./$inputSourceName ./$translatedInputName
     hoot task-grid ./$translatedInputName  ./$gridName $tilesInGridCount --uniform
     hoot split ./$gridName $translatedInputName $importGriddedName
 }
@@ -126,7 +154,8 @@ ForEach-Object {
     #     }
     # }
     if (-not (Test-Path ./$osmFileName) -or $forceRedownloadFromOsm) {   
-        hoot convert -D bounds=$cellExtent ***REMOVED***api.openstreetmap.org/api/0.6/map $osmFileName
+        # Plain text login and password are not a good practice, but anybody can make login at OSM anyway
+        hoot convert -D bounds=$cellExtent ***REMOVED***@api.openstreetmap.org/api/0.6/map $osmFileName
     }
     $conflatedOutName = "$targetFnPrefix-$griddedCellNumber-$algorithm-$confType.osm"
         
@@ -142,6 +171,8 @@ ForEach-Object {
 
     if ($forceReconflate -or (-not (Test-Path $conflatedOutName))) {
 
+# move next lines to Hoot options and back as needed
+
         #            -D snap.unconnected.ways.review.snapped.ways=true `
         hoot conflate `
             -C $confType -C $algorithm `
@@ -156,23 +187,25 @@ ForEach-Object {
             ./$osmFileName `
             ./$importFileName `
             $conflatedOutName
-        # produces pretty strange result, but fine for just checking where changes are
+
+        # produces result unusable to submit
+        # but it works well for checking where changes are visually in JOSM
         If ($lastExitCode -eq "0") {         
             hoot changeset-derive ./$osmFileName $conflatedOutName conflated-$griddedCellNumber.osc
         }
     }
         
-    
-    
 
     if ($markHootChangedAsModified -and (Test-Path $conflatedOutName)) {
+# This part is required to read Hoot debug tags and mark (conflated) features as changed for JOSM
+# Otherwise, JOSM can't understand we need to submit these
         Write-Output "Reading conflated file $conflatedOutName"
         [xml]$osm = Get-Content $conflatedOutName
 
         Write-Output "Marking changed nodes"
         $count = 0;
         $allCount = 0;
-        $hootTagsCount =0;
+        $hootTagsCount = 0;
         $osm.DocumentElement.ChildNodes 
         | Where-Object { $_.Name -eq "node" -or ($_.Name -eq "way") -or ($_.Name -eq "relation") } 
         | ForEach-Object {
@@ -188,9 +221,9 @@ ForEach-Object {
             }    
             $currentFeatureNode = $_
             $hootStatusNodes = $_.ChildNodes.Where( { ($_.Name -eq "tag" -and (
-                            ($_.k -in "source:datetime","error:circular") -or ($_.k.ToString().StartsWith("hoot:"))                                
+                            ($_.k -in "source:datetime", "error:circular") -or ($_.k.ToString().StartsWith("hoot:"))                                
                         )) })
-            $hootTagsCount +=  $hootStatusNodes.Count
+            $hootTagsCount += $hootStatusNodes.Count
             $hootStatusNodes | ForEach-Object { $currentFeatureNode.RemoveChild($_) }  > $null;          
 
             if ($allCount % 10000 -eq 0) {
