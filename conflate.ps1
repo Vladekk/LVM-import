@@ -2,8 +2,15 @@
 # License: MIT.
 # Author: OSM user Vladekk, vlad@izvne.com
 
-# This script is needed to split imported dataset, download same area from overpass
-# and conflate using Hootenanny.
+# This script is needed to split imported dataset into cell,
+# download same area from OSM for each cell
+# and conflate each cell using Hootenanny.
+# Then, mark changes so JOSM understand some features need to be uploaded.
+
+if ($args.Length -le 2){
+    Write-Output "This script requires at least two arguments: username and password for OSM. `
+    Optionally, working directory can be specified as a third argument." 
+}
 
 ############### config #######################
 # Each run of this script produces new conflated extentData 
@@ -45,8 +52,7 @@ $gridName = "grid-$tilesInGridCount.osm"
 #$osmGeofabrikName = "geofabrik-trimmed.osm"
 
 #if you do not want to process some files at the beginnning, put value here, otherwise 0
-$skip = 0
-
+$skip = 3
 
 # How many files to process. If you want all of them, default is $tilesInGridCount*$tilesInGridCount
 #$take = $tilesInGridCount*$tilesInGridCount
@@ -62,10 +68,12 @@ $workingDir = 'working-dir'
 
 #use credentials from here or other import page, do not use your own
 #https://wiki.openstreetmap.org/w/index.php?title=LV:LVM-import&redirect=no
-$osmUsername = NEED_TO_FILL
-$osmPassword = NEED_TO_FILL
+$osmUsername = $args[0]
+$osmPassword = $args[1]
 
 ############### End common config #######################
+
+
 
 #Enable or disable separate script steps
 #By default, all is set to true
@@ -85,8 +93,13 @@ $lvmDatasetUrl = "https://lvmgeo.lvm.lv/PublicData/SHP/LVM_MEZA_AUTOCELI.zip"
 $rootDir = $PSScriptRoot
 
 # If running from some IDE, should be set to script directory manually
-$rootDir = "/mnt/d/Docs/Maps/LVM-OSM-IMPORT-2021/"
-
+$rootDir = $args[2]
+#"/mnt/d/Docs/Maps/LVM-OSM-IMPORT-2021/"
+chmod +x ./hoot-docker.sh
+if (-not ($Env:PATH -like ${pwd}))
+{
+    $Env:PATH += ":${pwd}:";
+}
 
 ################## Start ################## 
 
@@ -108,16 +121,16 @@ if ($downloadFreshFromLvm) {
         # required to process encoding properly from CP1257 to UTF8
         Remove-Item out.geojson -ErrorAction Ignore
         ogr2ogr --config SHAPE_ENCODING CP1257 -f "geojson"  out.geojson *.shp
-        hoot convert ./out.geojson ../$workingDir/input-original.osm
+        hoot-docker.sh convert ./out.geojson ../$workingDir/input-original.osm
         Set-Location ..
     }
 }
 Set-Location $workingDir
 
 if (-not (Test-Path $translatedInputName) || $forceTranslateImport) {
-    hoot convert  -D schema.translation.script=../$translationScriptFilename ./$inputSourceName ./$translatedInputName
-    hoot task-grid ./$translatedInputName  ./$gridName $tilesInGridCount --uniform
-    hoot split ./$gridName $translatedInputName $importGriddedName
+    hoot-docker.sh convert  -D schema.translation.script=../$translationScriptFilename ./$inputSourceName ./$translatedInputName
+    hoot-docker.sh task-grid ./$translatedInputName  ./$gridName $tilesInGridCount --uniform
+    hoot-docker.sh split ./$gridName $translatedInputName $importGriddedName
 }
 
 
@@ -138,8 +151,8 @@ Select-Object -Skip $skip -First $take |
 Where-Object { $_.Length -gt 174 } |
 ForEach-Object { 
     $griddedCellNumber = $_.Name.Replace($griddedBaseName + '-', "").Replace(".osm", "")
-    $extentData = hoot extent $_.Name;
-    $cellExtent = $extentData[2].Split(' ')[3];      
+    $extentData = hoot-docker.sh extent $_.Name;
+    $cellExtent = $extentData.Where({$_ -like "Map extent*"}).Split(": ")[1]
     $osmFileName = "$osmBaseName-$griddedCellNumber.osm"
     $importFileName = $_.Name
              
@@ -162,9 +175,8 @@ ForEach-Object {
     #     }
     # }
     if (-not (Test-Path ./$osmFileName) -or $forceRedownloadFromOsm) {   
-        # Plain text login and 
-        ord are not a good practice, but anybody can make login at OSM anyway
-        hoot convert -D bounds=$cellExtent https://$osmUsername:$osmPassword@api.openstreetmap.org/api/0.6/map $osmFileName
+        # Plain text login and ord are not a good practice, but anybody can make login at OSM anyway
+        hoot-docker.sh convert -D bounds=$cellExtent https://${osmUsername}:${osmPassword}@api.openstreetmap.org/api/0.6/map $osmFileName
     }
     $conflatedOutName = "$targetFnPrefix-$griddedCellNumber-$algorithm-$confType.osm"
         
@@ -183,7 +195,7 @@ ForEach-Object {
 # move next lines to Hoot options and back as needed
 
         #            -D snap.unconnected.ways.review.snapped.ways=true `
-        hoot conflate `
+        hoot-docker.sh conflate `
             -C $confType -C $algorithm `
             -D search.radius.highway=$searchRadiusHighway `
             -D reader.add.source.datetime=false `
@@ -200,7 +212,7 @@ ForEach-Object {
         # produces result unusable to submit
         # but it works well for checking where changes are visually in JOSM
         If ($lastExitCode -eq "0") {         
-            hoot changeset-derive ./$osmFileName $conflatedOutName conflated-$griddedCellNumber.osc
+            hoot-docker.sh changeset-derive ./$osmFileName $conflatedOutName conflated-$griddedCellNumber.osc
         }
     }
         
@@ -236,7 +248,7 @@ ForEach-Object {
             $hootStatusNodes | ForEach-Object { $currentFeatureNode.RemoveChild($_) }  > $null;          
 
             if ($allCount % 10000 -eq 0) {
-                Write-Output "Processed $allCount features, found $count changed featues, removed $hootTagsCount hoot debug tags"
+                Write-Output "Processed $allCount features, found $count changed features, removed $hootTagsCount hoot debug tags"
             }        
         }
         

@@ -2,7 +2,7 @@ This is supporting script for [LVM data import](https://wiki.openstreetmap.org/w
 
 # Prerequisites
 
-This script can be used on Linux CentOS7 or Windows. Not tested on Linux.
+This script can be used on any system with docker available where you can install PowerShell Core (any fresh Linux or Windows)
 
 **On Windows**
 
